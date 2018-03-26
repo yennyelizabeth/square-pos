@@ -11,10 +11,10 @@ import { connect } from 'react-redux';
           { id: 4, name: "Doble res", price: 15, image: "https://image.ibb.co/gsFbhx/carne.jpg"},
           { id: 5, name: "Doble pollo", price: 15, image: "https://image.ibb.co/e3pK2x/hamburguesa.jpg" },
           { id: 6, name: "Doble vegetariana", price: 15, image: "https://image.ibb.co/fA1Ghx/vegetariana.jpg"  },
-          { id: 5, name: "Papas fritas", price: 5, image: "https://image.ibb.co/cmYwhx/papas_fritas.jpg" },
-          { id: 6, name: "Onion Rings", price: 5, image: "https://image.ibb.co/eyDwhx/cebolla.jpg"  },
-          { id: 6, name: "Agua", price: 5, image: "https://image.ibb.co/hqTXpc/agua.jpg" },
-          { id: 6, name: "Gaseosa", price: 7, image: "https://image.ibb.co/eYRMFH/gaseosa.jpg"  },
+          { id: 7, name: "Papas fritas", price: 5, image: "https://image.ibb.co/cmYwhx/papas_fritas.jpg" },
+          { id: 8, name: "Onion Rings", price: 5, image: "https://image.ibb.co/eyDwhx/cebolla.jpg"  },
+          { id: 9, name: "Agua", price: 5, image: "https://image.ibb.co/hqTXpc/agua.jpg" },
+          { id: 10, name: "Gaseosa", price: 7, image: "https://image.ibb.co/eYRMFH/gaseosa.jpg"  },
         ]
      
       return (

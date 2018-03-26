@@ -21,7 +21,7 @@ const ShoppingCart = ({cart, removeFromCart}) => {
               <div key={product.id}>
                 <div>{product.name}</div>
                 <div className="text-right">${product.price}</div>
-                <div className="text-right"><button  onClick={() => removeFromCart(product)}>Eliminar</button></div>
+                <div className="text-right"><button  onClick={() => removeFromCart(product)}><i class="far fa-trash-alt"></i></button></div>
               </div>
             )}
           </div>

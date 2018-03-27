@@ -1,0 +1,36 @@
+.main {
+    background-color: #f2f4f5;
+    border: 1px solid #c8ccce;
+    
+}
+
+.product {
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.main , .shop {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.cobrar {
+    width: 100%;
+    background-color: #2996cc;
+    color: white;
+    border: none;
+    padding: 10px;
+    vertical-align: bottom;
+}
+
+.shop {
+    padding: 0px;
+}
+
+.productShop p{
+    display: inline-block;
+}
+
+.name {
+    margin-right: 120px;
+}

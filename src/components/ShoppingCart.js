@@ -2,39 +2,32 @@ import React from 'react';
 import { removeFromCart } from '../actionCreatores';
 import { connect } from 'react-redux';
 
-const styles = {
-  footer: {
-    fontWeight: 'bold'
-  }
-}
+
 
 
 const ShoppingCart = ({cart, removeFromCart}) => {
   
     return (
-      <div header="Shopping Cart" className="col-4">
-
+      <div className="col-3 shop">
         <div>
+        <div>
+            <button className="cobrar">
+              Cobrar: S/.{cart.reduce((sum, product) => sum + product.price, 0)}
+            </button>
+          </div>
 
           <div>
             {cart.map(product =>
-              <div key={product.id}>
-                <div>{product.name}</div>
-                <div className="text-right">S/.{product.price}</div>
-                <div className="text-right"><button  onClick={() => removeFromCart(product)}><i class="far fa-trash-alt"></i></button></div>
+              <div className="productShop" key={product.id}>
+                <p className="text-left">{product.name}</p>
+                <p className="text-right">S/.{product.price}</p>
+                <p className="text-right"><button  onClick={() => removeFromCart(product)}><i class="far fa-trash-alt"></i></button></p>
               </div>
             )}
           </div>
-          <div>
-            <div>
-              <div colSpan="4" style={styles.footer}>
-                Total: S/.{cart.reduce((sum, product) => sum + product.price, 0)}
-              </div>
-            </div>
+          
 
-          </div>
         </div>
-
       </div>
     )
 

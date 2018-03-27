@@ -1,6 +1,7 @@
-import React, { Component } from 'react';
+import React from 'react';
 import {addToCart} from '../actionCreatores';
 import { connect } from 'react-redux';
+import './main.css'
 
  const ProductList =({products,addToCart}) =>{
     
@@ -15,22 +16,24 @@ import { connect } from 'react-redux';
           { id: 8, name: "Onion Rings", price: 5, image: "https://image.ibb.co/eyDwhx/cebolla.jpg"  },
           { id: 9, name: "Agua", price: 5, image: "https://image.ibb.co/hqTXpc/agua.jpg" },
           { id: 10, name: "Gaseosa", price: 7, image: "https://image.ibb.co/eYRMFH/gaseosa.jpg"  },
+          { id: 11, name: "Onion Rings", price: 5, image: "https://image.ibb.co/eyDwhx/cebolla.jpg"  },
+          { id: 12, name: "Agua", price: 5, image: "https://image.ibb.co/hqTXpc/agua.jpg" },
+          { id: 13, name: "Gaseosa", price: 7, image: "https://image.ibb.co/eYRMFH/gaseosa.jpg"  },
+          { id: 14, name: "Simple res", price: 10, image: "https://image.ibb.co/gsFbhx/carne.jpg"  },
+          { id: 15, name: "Simple pollo", price: 10, image: "https://image.ibb.co/e3pK2x/hamburguesa.jpg"  },
+          { id: 16, name: "Simple vegetariana", price: 10, image: "https://image.ibb.co/fA1Ghx/vegetariana.jpg"  },
         ]
      
       return (
-        <div className="col-9">
-          <div class="card-group ">
+        <div className="col-9 main p-3">
+          <div className ="card-group " >
             {products.map(product =>
-            <div class="col-3">
-              <div className="card m-3"  key={product.id}>
+            <div className="col-2 p-1 product" onClick={() => addToCart(product)}>
+              <div className="card"  key={product.id}>
                 <img className="card-img-top" src={product.image} alt={product.name} />
-                <div className="card-body">
-                <h4 className="card-title text-center">{product.name}</h4>
-                <h4 className="card-title text-center">S/.{product.price}</h4>
-                  <p className="card-text">
-                    <button className= "btn" onClick={() => addToCart(product)}>Comprar</button>
-                  </p>
-                </div>
+               
+                  <p className="card-title text-center mt-1">{product.name}</p>
+                
               </div>
             </div>
           )}

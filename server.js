@@ -9,8 +9,6 @@
  const Component = require('./src/components/Component.jsx') ;
 
 
-
-
 app.get('/', (req, res) => {
     var html = ReactDomServer.renderToString(
       React.createElement(Component)

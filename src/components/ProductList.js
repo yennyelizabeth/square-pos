@@ -19,9 +19,6 @@ import { connect } from 'react-redux';
      
       return (
         <div className="col-9">
-          <div>
-            <h1 className="text-center m-5"> Menú Hamburguesas </h1>
-          </div>
           <div class="card-group ">
             {products.map(product =>
             <div class="col-3">

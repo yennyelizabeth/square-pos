@@ -1,30 +1,40 @@
 import React, { Component } from 'react';
+import { Provider } from 'react-redux';
 import { BrowserRouter as Router, Link, Switch, Route, NavLink, Redirect, withRouter } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap/dist/js/bootstrap.min.js';
-import Card from './card'
-import Cash from './cash'
+import 'bootstrap/dist/js/bootstrap.min.js'; 
+import './main.css'
+import CloseBox from './closeBox'
+import AddProduct from './addProduct'
+import OpenBox from './openbox'
+import RegistrePay from './registrePay'
+import Report from './report'
 
-class App extends Component {
-  render() {
-    return (
+const  App  = ()  =>  {  
+    return ( 
       <Router>
         <div>
-
-
           <nav className="navbar navbar-expand-lg navbar-light bg-light">
-            <a className="navbar-brand" href="#">Logo</a>
+            <a className="navbar-brand" href="#">SQUARE - POS</a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon"></span>
             </button>
             <div className="collapse navbar-collapse" id="navbarNavDropdown">
               <ul className="navbar-nav">
                 <li className="nav-item">
-                  <a className="nav-link" href="#"><Link to='/cash'> Efectivo</Link></a>
+                  <a className="nav-link" href="#"><Link to='/openbox'><img src="./assets/icons/caja-registradora.png" alt="" className="icons_menu" /> Abrir Caja</Link></a>
                 </li>
-
                 <li className="nav-item">
-                  <a className="nav-link" href="#"><Link to='/card'>Tarjeta</Link></a>
+                  <a className="nav-link" href="#"><Link to='/addProduct'><img src="./assets/icons/carrito-de-la-compra-grande.png" alt="" className="icons_menu" />Añadir artículos</Link></a>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link" href="#"><Link to='/registrePay'><img src="assets/icons/grafico-de-aumento-de-las-existencias.png" alt="" className="icons_menu" />Productos</Link></a>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link" href="#"><Link to='/closeBox'><img src="assets/icons/grafico-de-aumento-de-las-existencias.png" alt="" className="icons_menu" />Cierre de caja</Link></a>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link" href="#"><Link to='/report'><img src="assets/icons/grafico-de-aumento-de-las-existencias.png" alt="" className="icons_menu" />Análisis de venta</Link></a>
                 </li>
               </ul>
             </div>
@@ -37,14 +47,16 @@ class App extends Component {
           </ul> */}
           <hr className='' />
           <Switch>
-            <Route path='/cash' component={Cash} />
-            <Route path='/card' component={Card} />
-            <Redirect from='/' to='/cash' />
+            <Route path='/openbox' component={OpenBox} />
+            <Route path='/addProduct' component={AddProduct} />
+            <Route path='/registrePay' component={RegistrePay} />
+            <Route path='/closeBox' component={CloseBox} />
+            <Route path='/report' component={Report} />
+            <Redirect from='/' to='/registrePay' />
           </Switch>
         </div>
       </Router>
-    );
-  }
+    ); 
 }
 
 export default App;

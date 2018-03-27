@@ -1,5 +1,10 @@
+:root {
+    --color-blue: #2996cc;
+    --color-bg: #f2f4f5;
+    --color-bd: #c8ccce;
+}
 .main {
-    background-color: #f2f4f5;
+    background-color: var(--color-bg);
     border: 1px solid #c8ccce;
     
 }
@@ -16,7 +21,7 @@
 
 .cobrar {
     width: 100%;
-    background-color: #2996cc;
+    background-color: var(--color-blue);
     color: white;
     border: none;
     padding: 10px;
@@ -33,4 +38,23 @@
 
 .name {
     margin-right: 120px;
+}
+
+
+/*Estilo componente Intro*/
+
+li.list-group-item{
+  background: var(--color-blue);
+  padding: 2rem 1rem;
+  color: var(--color-bg);
+  font-family: 'Open Sans', sans-serif;
+  /* font-family: 'Roboto', sans-serif; */
+  line-height: 1rem;
+  letter-spacing: 2px; 
+}
+  
+  /*iconos del menu*/
+.icons_menu {
+  height: 2rem;
+  margin-right: 1rem;
 }

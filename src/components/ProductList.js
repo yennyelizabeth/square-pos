@@ -31,9 +31,7 @@ import './main.css'
             <div className="col-2 p-1 product" onClick={() => addToCart(product)}>
               <div className="card"  key={product.id}>
                 <img className="card-img-top" src={product.image} alt={product.name} />
-               
                   <p className="card-title text-center mt-1">{product.name}</p>
-                
               </div>
             </div>
           )}

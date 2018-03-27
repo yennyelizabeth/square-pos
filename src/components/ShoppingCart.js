@@ -18,10 +18,12 @@ const ShoppingCart = ({cart, removeFromCart}) => {
 
           <div>
             {cart.map(product =>
-              <div className="productShop" key={product.id}>
+              <div className="productShop d-flex justify-content-between" key={product.id}>
                 <p className="text-left">{product.name}</p>
-                <p className="text-right">S/.{product.price}</p>
-                <p className="text-right"><button  onClick={() => removeFromCart(product)}><i class="far fa-trash-alt"></i></button></p>
+                <div>
+                  <p className="text-right">S/.{product.price}</p>
+                  <p className="text-right"><button  onClick={() => removeFromCart(product)}><i class="far fa-trash-alt"></i></button></p>
+                </div>
               </div>
             )}
           </div>

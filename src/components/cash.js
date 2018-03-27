@@ -1,7 +1,12 @@
-import React from 'react'
+import React from 'react';
+import Main from './main';
+import './main.css'
 
 const Cash = () => (
-    <div>Efectivo</div>
+    <div>
+
+        <Main/>
+    </div>
 )
 
 export default Cash

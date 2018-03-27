@@ -42,19 +42,23 @@
 
 
 /*Estilo componente Intro*/
-
-li.list-group-item{
+nav.navbar.navbar-expand-lg.navbar-light.bg-light{
+   padding: 0;
+}
+a.nav-link{
   background: var(--color-blue);
-  padding: 2rem 1rem;
+  padding: 1rem 1rem;
   color: var(--color-bg);
   font-family: 'Open Sans', sans-serif;
   /* font-family: 'Roboto', sans-serif; */
   line-height: 1rem;
   letter-spacing: 2px; 
 }
-  
+a {
+    color: white;
+}
   /*iconos del menu*/
 .icons_menu {
   height: 2rem;
-  margin-right: 1rem;
+  margin-right: 1rem; 
 }

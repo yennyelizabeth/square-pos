@@ -4,11 +4,9 @@ import { BrowserRouter as Router, Link, Switch, Route, NavLink, Redirect, withRo
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.min.js'; 
 import './main.css'
-import CloseBox from './closeBox'
-import AddProduct from './addProduct'
+import CloseBox from './closeBox' 
 import OpenBox from './openbox'
-import RegistrePay from './registrePay'
-import Report from './report'
+import RegistrePay from './registrePay' 
 
 const  App  = ()  =>  {  
     return ( 
@@ -23,19 +21,13 @@ const  App  = ()  =>  {
               <ul className="navbar-nav">
                 <li className="nav-item">
                   <a className="nav-link" href="#"><Link to='/openbox'><img src="./assets/icons/caja-registradora.png" alt="" className="icons_menu" /> Abrir Caja</Link></a>
-                </li>
+                </li> 
                 <li className="nav-item">
-                  <a className="nav-link" href="#"><Link to='/addProduct'><img src="./assets/icons/carrito-de-la-compra-grande.png" alt="" className="icons_menu" />Añadir artículos</Link></a>
-                </li>
-                <li className="nav-item">
-                  <a className="nav-link" href="#"><Link to='/registrePay'><img src="assets/icons/grafico-de-aumento-de-las-existencias.png" alt="" className="icons_menu" />Productos</Link></a>
+                  <a className="nav-link" href="#"><Link to='/registrePay'><img src="./assets/icons/bolsa-de-la-compra.png" alt="" className="icons_menu" />Productos</Link></a>
                 </li>
                 <li className="nav-item">
                   <a className="nav-link" href="#"><Link to='/closeBox'><img src="assets/icons/grafico-de-aumento-de-las-existencias.png" alt="" className="icons_menu" />Cierre de caja</Link></a>
-                </li>
-                <li className="nav-item">
-                  <a className="nav-link" href="#"><Link to='/report'><img src="assets/icons/grafico-de-aumento-de-las-existencias.png" alt="" className="icons_menu" />Análisis de venta</Link></a>
-                </li>
+                </li> 
               </ul>
             </div>
           </nav>
@@ -47,11 +39,9 @@ const  App  = ()  =>  {
           </ul> */}
           <hr className='' />
           <Switch>
-            <Route path='/openbox' component={OpenBox} />
-            <Route path='/addProduct' component={AddProduct} />
+            <Route path='/openbox' component={OpenBox} /> 
             <Route path='/registrePay' component={RegistrePay} />
-            <Route path='/closeBox' component={CloseBox} />
-            <Route path='/report' component={Report} />
+            <Route path='/closeBox' component={CloseBox} /> 
             <Redirect from='/' to='/registrePay' />
           </Switch>
         </div>

@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Cash = () => (
-    <div>Cash</div>
+    <div>Efectivo</div>
 )
 
 export default Cash

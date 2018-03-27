@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Card = () => (
-    <div>Card</div>
+    <div>Tarjeta</div>
 )
 
 export default Card

@@ -58,3 +58,39 @@ li.list-group-item{
   height: 2rem;
   margin-right: 1rem;
 }
+
+/* estilos para el componente 'PayList' */
+form, .form-pay, .inputs, .monto{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.monto{
+    padding:10px;
+    border-top: 1px solid rgb(199, 199, 252);
+    border-bottom: 1px solid rgb(199, 199, 252);
+    font-weight: bold;
+    color:rgb(85, 83, 83);
+}
+
+.monto>div{
+    color: rgb(59, 145, 216);
+    font-size:30px;
+}
+
+form{
+    padding:10px;
+    font-weight: bold;
+    color:rgb(85, 83, 83);
+}
+
+form img{
+    width: 35px;
+    height: 30px;
+}
+
+.form-check-label>label>input,.form-check-label>img{
+    padding: 0 5px;
+}

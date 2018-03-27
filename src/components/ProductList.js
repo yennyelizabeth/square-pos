@@ -58,6 +58,8 @@ import './main.css'
       }
     }
 
+    
+
     export default connect(mapStateToProps, mapDispatchToProps) (ProductList);
   
     

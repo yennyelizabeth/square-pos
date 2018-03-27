@@ -1,6 +1,8 @@
 import React from 'react';
 import { removeFromCart } from '../actionCreatores';
 import { connect } from 'react-redux';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.min.js';
 
 
 

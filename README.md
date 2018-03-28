@@ -136,13 +136,19 @@ De acuerdo a la investigación, se ha identificado la user persona: una vendedor
 
 ![luisa-rodriguez](https://user-images.githubusercontent.com/31896385/38031513-ef3137bc-3260-11e8-9f34-8c884117aaa2.jpg)
 
+### Prototipo
 
+* **Prototipo de Baja Fidelidad**
+Se ha elaborado un prototipo en papel.
 
+* **Prototipo de Alta Fidelidad**
+Se elaboró un prototipo en figma.
 
+#### Flujo 1 - Inicia Sesión hasta la apertura de caja
+![group 2](https://user-images.githubusercontent.com/31896385/38036958-7c0dfb00-326d-11e8-81a3-5935924faeab.png)
 
-
-
-
+#### Flujo 2 - venta, cobro y cierre de caja
+![group 1](https://user-images.githubusercontent.com/31896385/38037434-7a7cfba0-326e-11e8-9346-d8bb335d875d.png)
 
 
 

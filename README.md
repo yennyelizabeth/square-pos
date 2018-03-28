@@ -96,7 +96,7 @@ Se entrevistó a 5 vendedores en negocios en Barranco, Lima.
 
 Se obtuvo las siguientes conclusiones:
 
-| Tema |  Conclusión |
+| Tema |  Conclusiones |
 | :----------- | :----------- | 
 | Venta| Les agradaba y se sentían indetificados con la actividad de venta que realizaban. |
 || Conocen los productos que ofrecen.|
@@ -110,10 +110,32 @@ Se obtuvo las siguientes conclusiones:
   
 * **Encuestas**
 
+![google2bforms](https://user-images.githubusercontent.com/31896385/38020309-7cfeaf74-323f-11e8-9539-a277632931fd.jpg)
+
+
+Se realizaron encuestas vía online, para conocer la percepción de los usuarios.
+
 | Usuario |  Descripción| Documentación|
 | :----------- | :----------- | :----------- | 
 | Vendedores | Para conocer la percepción de los vendedores a la hora de vender| https://goo.gl/forms/MQTUD0NP0AgBcS5i1|
 | Clientes | Para conocer la percepción de los clientes a la hora de comprar| https://goo.gl/forms/hSBHD16Nuw1PjeuH3 | 
+
+Se obtuvo las siguientes conclusiones:
+
+| Usuario | Tema |  Conclusiones |
+| :----------- | :----------- | :----------- | 
+| Vendedores |  |  | 
+| Clientes |  |  | 
+
+![encuestas-1](https://user-images.githubusercontent.com/31896385/38021855-94ebc8b6-3243-11e8-99fc-549e8d98498d.png)
+![resumen-entrevista-2](https://user-images.githubusercontent.com/31896385/38022027-08d6ca00-3244-11e8-88c8-a7391d127916.png)
+
+
+
+
+
+
+
 
 
 

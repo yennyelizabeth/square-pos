@@ -82,6 +82,11 @@ Los objetivos específicos:
 | Elaboración del Prototipo en Papel|  |
 | Testeo Nro 1|  |
 
+
+### 📜 Investigación de Contexto 
+
+
+
 ### Entrevista-y-encuestas
 
 💾* **Entrevistas**
@@ -130,19 +135,58 @@ Se obtuvo las siguientes conclusiones:
 ![encuestas-1](https://user-images.githubusercontent.com/31896385/38021855-94ebc8b6-3243-11e8-99fc-549e8d98498d.png)
 ![resumen-entrevista-2](https://user-images.githubusercontent.com/31896385/38022027-08d6ca00-3244-11e8-88c8-a7391d127916.png)
 
-### User Persona
+### 🎨 Features
+
+![cajero-square](https://user-images.githubusercontent.com/31896385/38039136-35ebbf54-3272-11e8-907f-31fb6c83b2e2.jpg)
+
+Luego de la investigación, se han identificado las siguientes principales funcionalidades y características
+
+* **Apertura de Caja**
+- Al inicio del día
+- Selecciona fecha del día
+- Ingresar el monto de caja chica
+
+* **Catálogo de Productos**
+- Ingreso de productos ( con toda su descripción)
+
+* **Vemta con carrito**
+- Busca producto
+- Visualiza información de producto
+- Agrega producto a carrito
+- Consulta carrito el detalle de productos 
+- Opción de eliminar productos en el carrito 
+- Acumulación de montos de los productos seleccionados
+
+* **Cobro de venta**
+- Botón de cobro con acumulado de venta
+- Selección de medio de pago , que puede ser combinado ( efectivo y con tarjeta)
+- Ingreso de datos de pago de tarjeta
+
+* **Cierre de caja**
+- Muestra saldo inicial de apertura de caja del día
+- Seleccion fecha del día que se hará el cierre
+- Acumulará las operaciones desde que se abrió la cuenta hasta la fecha que se está haciendo cierre
+
+
+### 🎨 User Persona
 
 De acuerdo a la investigación, se ha identificado la user persona: una vendedora de un minimarket-bodega, el cual está detallado en el siguiente gráfico.
 
 ![luisa-rodriguez](https://user-images.githubusercontent.com/31896385/38031513-ef3137bc-3260-11e8-9f34-8c884117aaa2.jpg)
 
+### 🚀 Prototipo
 
+* **Prototipo de Baja Fidelidad**
+Se ha elaborado un prototipo en papel.
 
+* **Prototipo de Alta Fidelidad**
+Se elaboró un prototipo en figma.
 
+#### Flujo 1 - Inicia Sesión hasta la apertura de caja
+![group 2](https://user-images.githubusercontent.com/31896385/38036958-7c0dfb00-326d-11e8-81a3-5935924faeab.png)
 
-
-
-
+#### Flujo 2 - venta, cobro y cierre de caja
+![group 1](https://user-images.githubusercontent.com/31896385/38037434-7a7cfba0-326e-11e8-9346-d8bb335d875d.png)
 
 
 

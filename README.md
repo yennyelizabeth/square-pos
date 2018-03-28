@@ -32,13 +32,14 @@ Para el desarrollo del trabajo, se tiene el siguiente esquema de trabajo.
 
 ### Organización
 
-| Integrantes | Rol |
+| Integrantes |Especialidad |
 | :----------- | :---------: |
-| Yenny Quiñones| UX Designer|
 | Alejandra Hoces| UX Designer|
+| Yenny Quiñones| UX Designer|
 | Aurora Vásques | Front End|
-| Kathy | Front End|
 | Kamaly| Front End|
+| Kathy | Front End|
+
 
 
 ### Planificación
@@ -59,14 +60,17 @@ Los objetivos específicos:
 #### Actividades
 
 * **Actividades Comunes**
-| Ux Designer y  Front-End|Días |
-| Daily Stand Up| 3 |
-| Intercambio de aportes de experiencias relacionadas a la interacción con el producto| 3 |
-| Intercambio de consultas y propuestas| 3 |
-| Comunicación de diseños y desarrollos| 3 |
-| Retrospectiva| 3 |
+
+| Ux Designer y  Front-End|Frecuencia |
+| :----------- | :----------- |
+| Daily Stand Up|
+| Intercambio de aportes de experiencias de interacción con el producto|Diaria |
+| Intercambio de consultas y propuestas|Diaria |
+| Comunicación de diseños y desarrollos|Diaria |
+| Retrospectiva|Diaria |
 
 * **Actividades Paralelas**
+
 | Ux Designer |  Front-End |
 | :----------- | :----------- | 
 | Investigación de contexto| Definición de estructura de funcionalidad |
@@ -79,16 +83,17 @@ Los objetivos específicos:
 | Elaboración del Prototipo en Papel|  |
 | Testeo Nro 1|  |
 
+![entrevistas](https://user-images.githubusercontent.com/31896385/38017972-3b65ee52-3239-11e8-968b-79161729e784.png)
 
 * **Entrevistas**
 
-| Usuario |  Descripción|
-|:----------- | :----------- |
-|Vendedores |Se entrevistó a 5 vendedores|
+| Usuario |  Descripción|Documentación|
+|:----------- | :----------- | :----------- |
+|Vendedores |Se entrevistó a 5 vendedores|https://drive.google.com/open?id=14VJqd40Xpkh18AuiehUL-CpPJiw8hoR9IhTqfaW5Zow |
 
 * **Encuestas**
 
-| Usuario |  Descripción| Link|
+| Usuario |  Descripción| Documentación|
 | :----------- | :----------- | :----------- | 
 | Vendedores | Para conocer la percepción de los vendedores a la hora de vender| https://goo.gl/forms/MQTUD0NP0AgBcS5i1|
 | Clientes | Para conocer la percepción de los clientes a la hora de comprar| https://goo.gl/forms/hSBHD16Nuw1PjeuH3 | 

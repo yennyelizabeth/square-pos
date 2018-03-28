@@ -1,8 +1,3 @@
-# SQUARE-POS
-
-## npm start
-Ejecutalo cuando desees visualizar el proyecto
-
 # SQUARE PoS
 Es una App que te permite contar con un catálogo de productos con precios y stocks, cobros en efectivo y tarjeta de crédito,
 finalmente podrás realizar un cuadre de caja al final del día.
@@ -26,15 +21,14 @@ Para el desarrollo del trabajo, se tiene el siguiente esquema de trabajo.
 - [Planificación](#Planificación)
 
 - [Investigación de contexto](#Investigación-de-contexto-del-servicio)
- Benchmark | Distribución |
-| Entrevista a usuarios| Desarrollo |
-| Encuestas|  |
-| Elaboración de user-persona|  |
-| Definición de característica|  |
-| Elaboración del Mapa del sitio|  |
-| Elaboración del Prototipo en Papel|  |
-| Testeo Nro 1| 
-
+- [Benchmark](#Benchmark)
+- [Entrevista a usuarios](#Entrevista-a-usuarios)
+- [Encuestas](#Encuestas)
+- [User Persona](#User-Persona)
+- [Características](#Características)
+- [Mapa de sitio](#Mapa-de-sitio)
+- [Prototipo](#Prototipo)
+- [Validación](#Validación)
 
 ### Organización
 
@@ -102,7 +96,10 @@ Los objetivos específicos:
 
 
 
+# SQUARE-POS
 
+## npm start
+Ejecutalo cuando desees visualizar el proyecto
 
 
 

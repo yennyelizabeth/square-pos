@@ -84,7 +84,7 @@ Los objetivos específicos:
 
 ### Entrevista-y-encuestas
 
-* **Entrevistas**
+💾* **Entrevistas**
 
 ![entrevistas](https://user-images.githubusercontent.com/31896385/38019592-a3cf7856-323d-11e8-89cb-76173ba6406d.png)
 
@@ -108,7 +108,7 @@ Se obtuvo las siguientes conclusiones:
 |Inventario|Inventarean productos manualmente, en algunos casos se apoyan en hojas de cálculo.|
 |Tecnología|Prefieren la utilización de un móvil como dispositivo de fácil uso y accesible.|
   
-* **Encuestas**
+🌏* **Encuestas**
 
 ![google2bforms](https://user-images.githubusercontent.com/31896385/38020309-7cfeaf74-323f-11e8-9539-a277632931fd.jpg)
 
@@ -129,6 +129,12 @@ Se obtuvo las siguientes conclusiones:
 
 ![encuestas-1](https://user-images.githubusercontent.com/31896385/38021855-94ebc8b6-3243-11e8-99fc-549e8d98498d.png)
 ![resumen-entrevista-2](https://user-images.githubusercontent.com/31896385/38022027-08d6ca00-3244-11e8-88c8-a7391d127916.png)
+
+### User Persona
+
+De acuerdo a la investigación, se ha identificado la user persona: una vendedora de un minimarket-bodega, el cual está detallado en el siguiente gráfico.
+
+![luisa-rodriguez](https://user-images.githubusercontent.com/31896385/38031513-ef3137bc-3260-11e8-9f34-8c884117aaa2.jpg)
 
 
 

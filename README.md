@@ -22,8 +22,7 @@ Para el desarrollo del trabajo, se tiene el siguiente esquema de trabajo.
 
 - [Investigación de contexto](#Investigación-de-contexto-del-servicio)
 - [Benchmark](#Benchmark)
-- [Entrevista a usuarios](#Entrevista-a-usuarios)
-- [Encuestas](#Encuestas)
+- [Entrevista y encuestas](#Entrevista-y-encuestas)
 - [User Persona](#User-Persona)
 - [Características](#Características)
 - [Mapa de sitio](#Mapa-de-sitio)
@@ -83,14 +82,32 @@ Los objetivos específicos:
 | Elaboración del Prototipo en Papel|  |
 | Testeo Nro 1|  |
 
-![entrevistas](https://user-images.githubusercontent.com/31896385/38017972-3b65ee52-3239-11e8-968b-79161729e784.png)
+### Entrevista-y-encuestas
 
 * **Entrevistas**
+
+![entrevistas](https://user-images.githubusercontent.com/31896385/38019592-a3cf7856-323d-11e8-89cb-76173ba6406d.png)
+
+Se entrevistó a 5 vendedores en negocios en Barranco, Lima.
 
 | Usuario |  Descripción|Documentación|
 |:----------- | :----------- | :----------- |
 |Vendedores |Se entrevistó a 5 vendedores|https://drive.google.com/open?id=14VJqd40Xpkh18AuiehUL-CpPJiw8hoR9IhTqfaW5Zow |
 
+Se obtuvo las siguientes conclusiones:
+
+| Tema |  Conclusión |
+| :----------- | :----------- | 
+| Venta| Les agradaba y se sentían indetificados con la actividad de venta que realizaban. |
+|| Conocen los productos que ofrecen. |
+|| En su mayoría, conocen a los clientes. |
+|| En su mayoría, conocen a los clientes. |
+|Cobrar venta|El cobro se realiza principalmente en efectivo |
+|Cobrar venta|Otras de forma pago son el pago con tarjeta y transferencias de pago nacional e internacional |
+|Caja|Realizan la apertura y cierre de caja manualmente en su mayoría, en algunos casos se apoyan en hojas de cálculo.|
+|Inventario|Inventarean productos manualmente, en algunos casos se apoyan en hojas de cálculo.|
+|Tecnología|En su mayoría prefieren la utilización de un móvil como dispositivo de fácil uso para un cajero virtual|
+  
 * **Encuestas**
 
 | Usuario |  Descripción| Documentación|

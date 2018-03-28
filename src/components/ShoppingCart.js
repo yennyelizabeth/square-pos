@@ -10,7 +10,7 @@ import 'bootstrap/dist/js/bootstrap.min.js';
 const ShoppingCart = ({cart, removeFromCart}) => {
   
     return (
-      <div className="col-3 shop">
+      <div className="col-4 shop">
         <div>
         <div>
             <button className="cobrar">
@@ -24,7 +24,7 @@ const ShoppingCart = ({cart, removeFromCart}) => {
                 <p className="text-left">{product.name}</p>
                 <div>
                   <p className="text-right">S/.{product.price}</p>
-                  <p className="text-right"><button  onClick={() => removeFromCart(product)}><i class="far fa-trash-alt"></i></button></p>
+                  <p className="text-right"><button  onClick={() => removeFromCart(product)} className="btnTrash"><i class="far fa-trash-alt"></i></button></p>
                 </div>
               </div>
             )}

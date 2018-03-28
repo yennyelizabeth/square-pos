@@ -19,7 +19,6 @@ Para el desarrollo del trabajo, se tiene el siguiente esquema de trabajo.
 ### 🚩 Tabla de contenido
 - [Organización](#Organización)
 - [Planificación](#Planificación)
-
 - [Investigación de contexto](#Investigación-de-contexto-del-servicio)
 - [Benchmark](#Benchmark)
 - [Entrevista y encuestas](#Entrevista-y-encuestas)
@@ -27,7 +26,8 @@ Para el desarrollo del trabajo, se tiene el siguiente esquema de trabajo.
 - [Características](#Características)
 - [Mapa de sitio](#Mapa-de-sitio)
 - [Prototipo](#Prototipo)
-- [Validación](#Validación)
+- [Herramientas](#Herramientas)
+
 
 ### Organización
 
@@ -36,8 +36,8 @@ Para el desarrollo del trabajo, se tiene el siguiente esquema de trabajo.
 | Alejandra Hoces| UX Designer|
 | Yenny Quiñones| UX Designer|
 | Aurora Vásques | Front End|
-| Kamaly| Front End|
-| Kathy | Front End|
+| Kamaly Zapana| Front End|
+| Kathy Lévano| Front End|
 
 
 
@@ -51,10 +51,17 @@ Para el desarrollo del trabajo, se tiene el siguiente esquema de trabajo.
 * **Limitaciones de la tecnología**
 
 #### Objetivos del Proyecto
-- Objetivo General : Rediseño de la aplicación Square PoS
-Los objetivos específicos:
-- 
 
+El Objetivo General:
+- Rediseño de la aplicación Square PoS
+
+Los objetivos específicos:
+- Investigar al usuario y su contexto.
+- Investigar sobre la square-pos.
+- Análizar relación usuario y square-pos.
+- Identificar las características a mejorar en el rediseño.
+- Desarrollar un producto mínimo viable en paralelo.
+- Identificar y desarrollar las funcionalidades del producto minimo viable.
 
 #### Actividades
 
@@ -83,7 +90,31 @@ Los objetivos específicos:
 | Testeo Nro 1|  |
 
 
+| Cronograma |  Documentación|
+| :----------- | :----------- | 
+| Documento de excel| https://drive.google.com/open?id=1AnZtR_4y7T8pHOQQF3jfSZv_B54MH36VZs4PUDWsQME |
+
+
 ### 📜 Investigación de Contexto 
+Se realizó una investigación de contexto, y se preparan conclusiones:
+
+| Usuario |  Descripción de Contexto|
+| :----------- | :----------- | 
+| Vendedor| https://drive.google.com/open?id=1Srp1ozRHMicDbH4n4FlmQ4V0QegGMMue3xXmqWwDVnY |
+
+
+### 📙 Benchmark
+
+Se está realizando un Benchmark entre soluciones similares, y se preparan conclusiones finales:
+
+| A nivel mundial |  A nivel regional-latinoamericano|A nivel local-país| 
+| :----------- | :----------- | :----------- | 
+|  | | | 
+
+
+| Referencias |  Documentación|
+| :----------- | :----------- | 
+| Documento en excel| https://drive.google.com/open?id=1UKAbqseebfFe_fdLuBha2TvGxUo5KkMromuPs5brncU |
 
 
 
@@ -135,7 +166,15 @@ Se obtuvo las siguientes conclusiones:
 ![encuestas-1](https://user-images.githubusercontent.com/31896385/38021855-94ebc8b6-3243-11e8-99fc-549e8d98498d.png)
 ![resumen-entrevista-2](https://user-images.githubusercontent.com/31896385/38022027-08d6ca00-3244-11e8-88c8-a7391d127916.png)
 
-### 🎨 Features
+
+### 🎨 User Persona
+
+De acuerdo a la investigación, se ha identificado la user persona: una vendedora de un minimarket-bodega, el cual está detallado en el siguiente gráfico.
+
+![luisa-rodriguez](https://user-images.githubusercontent.com/31896385/38031513-ef3137bc-3260-11e8-9f34-8c884117aaa2.jpg)
+
+
+### 🎨 Características
 
 ![cajero-square](https://user-images.githubusercontent.com/31896385/38039136-35ebbf54-3272-11e8-907f-31fb6c83b2e2.jpg)
 
@@ -168,11 +207,14 @@ Luego de la investigación, se han identificado las siguientes principales funci
 - Acumulará las operaciones desde que se abrió la cuenta hasta la fecha que se está haciendo cierre
 
 
-### 🎨 User Persona
+### Mapa del Sitio
 
-De acuerdo a la investigación, se ha identificado la user persona: una vendedora de un minimarket-bodega, el cual está detallado en el siguiente gráfico.
+Se elaborará un mapa de sitio del rediseño propuesto.
 
-![luisa-rodriguez](https://user-images.githubusercontent.com/31896385/38031513-ef3137bc-3260-11e8-9f34-8c884117aaa2.jpg)
+| Demo| Documentación|
+| :----------- | :----------- | 
+| Mapa del Sitio | https://drive.google.com/open?id=1D22Z9Okn1NhggYMHYLlhRJJrwc915KTtM0RitmVczxY  | 
+
 
 ### 🚀 Prototipo
 
@@ -188,12 +230,14 @@ Se elaboró un prototipo en figma.
 #### Flujo 2 - venta, cobro y cierre de caja
 ![group 1](https://user-images.githubusercontent.com/31896385/38037434-7a7cfba0-326e-11e8-9346-d8bb335d875d.png)
 
+| Demo|  Link |
+| :----------- | :----------- | 
+| Marvel | https://marvelapp.com/32db393 | 
 
 
-# SQUARE-POS
 
-## npm start
-Ejecutalo cuando desees visualizar el proyecto
+
+
 
 
 

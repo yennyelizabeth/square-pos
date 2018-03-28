@@ -14,7 +14,7 @@ const ShoppingCart = ({ cart, removeFromCart }) => {
     <div className="col-4 shop">
       <div>
         <div>
-          <button className="" type="button" className="btn btn-primary" data-toggle="modal" data-target="#exampleModalLong">
+          <button className="" type="button" className="btn btn-primary ml-3" data-toggle="modal" data-target="#exampleModalLong">
             Cobrar: S/.{cart.reduce((sum, product) => sum + product.price, 0)}
           </button>
 

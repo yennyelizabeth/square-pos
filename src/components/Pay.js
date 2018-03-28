@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 // import {addToCart} from '../actionCreatores';
 // import { connect } from 'react-redux';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -8,10 +8,22 @@ import dinero from '../assets/icons/dinero.png';
 import tarjeta from '../assets/icons/tarjeta-de-credito.png';
 import pregunta from '../assets/icons/pregunta.png';
 import calendario from '../assets/icons/calendario.png';
+import PropTypes from 'prop-types';
 
-const PayList = () => (
 
-  <div class="container form-pay">
+
+class PayList extends Component {
+  constructor() {
+    super();
+    this.state = {
+      monto:'',
+
+    }
+  }
+
+  render() {
+    return(
+      <div class="container form-pay">
     <div class="row">
       <div class="col-12 monto-pay">
         <p>Detalle de compra</p>
@@ -23,10 +35,10 @@ const PayList = () => (
         <p>Seleccionar una forma de pago</p>
         <div class="form-check form-check-1">
           <label class="form-check-label">
-            <input type="checkbox" class="form-check-input" value=""/><img src={dinero}/>Efectivo
+            <input type="checkbox" class="form-check-input" /><img src={dinero}/>Efectivo
           </label>
           <div className="input-efectivo">
-            <input class="form-control" placeholder="Monto recibido"/>
+            <input type="number" class="form-control" placeholder="Monto recibido" value={this.state.monto} onChange={this.update.bind(this)}/>
             <ul>
               <li>Monto:  <span>00.00</span></li>
               <li>Vuelto: <span>00.00</span></li>
@@ -59,11 +71,24 @@ const PayList = () => (
           </div>
         </div>
         <div className="text-center">
-          <button type="button" class="btn btn-primary btn-block">COBRAR</button>
+          <button type="button" class="btn btn-primary btn-block" onClick={this.calculo.bind(this)}>COBRAR</button>
         </div>
       </form>
     </div>
   </div>
-);
+    )
+  }
+
+  update(event) {
+    this.setState({
+      monto: event.target.value
+    })
+  }
+
+  calculo() {
+    alert('hola' + this.state.monto);
+  }
+}
+
 
   export default PayList;

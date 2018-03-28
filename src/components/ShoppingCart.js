@@ -15,7 +15,9 @@ const ShoppingCart = ({ cart, removeFromCart }) => {
       <div>
         <div>
           <button className="" type="button" className="btn btn-primary ml-3" data-toggle="modal" data-target="#exampleModalLong">
-            Cobrar: S/.{cart.reduce((sum, product) => sum + product.price, 0)}
+            Cobrar: S/.{cart.reduce((sum, product) => sum + product.price, 0)
+            
+            }
           </button>
 
           <div className="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">

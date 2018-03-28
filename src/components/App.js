@@ -20,13 +20,13 @@ const  App  = ()  =>  {
             <div className="collapse navbar-collapse" id="navbarNavDropdown">
               <ul className="navbar-nav">
                 <li className="nav-item">
-                  <a className="nav-link" href="#"><Link to='/openbox'><img src="./assets/icons/caja-registradora.png" alt="" className="icons_menu" /> Abrir Caja</Link></a>
+                  <a className="nav-link" href="#"><Link to='/openbox'><img src="./assets/icons/bolsa-de-la-compra.png" alt="" className="icons_menu" /> Abrir Caja</Link></a>
                 </li> 
                 <li className="nav-item">
                   <a className="nav-link" href="#"><Link to='/registrePay'><img src="./assets/icons/bolsa-de-la-compra.png" alt="" className="icons_menu" />Productos</Link></a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#"><Link to='/closeBox'><img src="assets/icons/grafico-de-aumento-de-las-existencias.png" alt="" className="icons_menu" />Cierre de caja</Link></a>
+                  <a className="nav-link" href="#"><Link to='/closeBox'><img src="./assets/icons/bolsa-de-la-compra.png" alt="" className="icons_menu" />Cierre de caja</Link></a>
                 </li> 
               </ul>
             </div>

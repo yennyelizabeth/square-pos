@@ -30,7 +30,7 @@ import './main.css'
         <div className="col-8 main p-1">
           <div className ="" >
             {products.map(product =>
-            <div className="col-3 p-1 product float-left" onClick={() => addToCart(product)}>
+            <div className="col-6 p-1 product float-left" onClick={() => addToCart(product)}>
               <div className="card"  key={product.id}>
                 <img className="card-img-top" src={product.image} alt={product.name} />
                   <p className="card-title text-center mt-1">{product.name}</p>

@@ -47,16 +47,16 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light{
    padding: 0;
 }
 a.nav-link{
-  background: var(--color-blue);
+  /* background: var(--color-blue); */
   padding: 1rem 1rem;
-  color: var(--color-bg);
+  /* color: var(--color-bg); */
   font-family: 'Open Sans', sans-serif;
   /* font-family: 'Roboto', sans-serif; */
   line-height: 1rem;
   letter-spacing: 2px; 
 }
 a {
-    color: white;
+    /* color: white; */
 }
   /*iconos del menu*/
 .icons_menu {

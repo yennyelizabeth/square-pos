@@ -230,6 +230,10 @@ Se elaboró un prototipo en figma.
 #### Flujo 2 - venta, cobro y cierre de caja
 ![group 1](https://user-images.githubusercontent.com/31896385/38037434-7a7cfba0-326e-11e8-9346-d8bb335d875d.png)
 
+* **Demo Square PoS Latino**
+![square-logo](https://user-images.githubusercontent.com/31896385/38041434-53c0a9c2-3277-11e8-9ce7-32a87c153e93.png)
+
+
 | Demo|  Link |
 | :----------- | :----------- | 
 | Marvel | https://marvelapp.com/32db393 | 

@@ -58,7 +58,7 @@ Los objetivos específicos:
 
 #### Actividades
 
-* **Actividades Comunes**
+* **Comunes**
 
 | Ux Designer y  Front-End|Frecuencia |
 | :----------- | :----------- |
@@ -68,7 +68,7 @@ Los objetivos específicos:
 | Comunicación de diseños y desarrollos|Diaria |
 | Retrospectiva|Diaria |
 
-* **Actividades Paralelas**
+* **Paralelas**
 
 | Ux Designer |  Front-End |
 | :----------- | :----------- | 
@@ -99,14 +99,14 @@ Se obtuvo las siguientes conclusiones:
 | Tema |  Conclusión |
 | :----------- | :----------- | 
 | Venta| Les agradaba y se sentían indetificados con la actividad de venta que realizaban. |
-|| Conocen los productos que ofrecen. |
-|| En su mayoría, conocen a los clientes. |
-|| En su mayoría, conocen a los clientes. |
-|Cobrar venta|El cobro se realiza principalmente en efectivo |
-|Cobrar venta|Otras de forma pago son el pago con tarjeta y transferencias de pago nacional e internacional |
-|Caja|Realizan la apertura y cierre de caja manualmente en su mayoría, en algunos casos se apoyan en hojas de cálculo.|
+|| Conocen los productos que ofrecen.|
+|| En su mayoría, conocen a los clientes.|
+|| En su mayoría, conocen a los clientes.|
+|Cobrar|El cobro se realiza principalmente en efectivo.|
+|Cobrar|Otras de forma pago son el pago con tarjeta y transferencias.|
+|Caja|La apertura y cierre de caja es manual en su mayoría, en algunos casos se apoyan en hojas de cálculo.|
 |Inventario|Inventarean productos manualmente, en algunos casos se apoyan en hojas de cálculo.|
-|Tecnología|En su mayoría prefieren la utilización de un móvil como dispositivo de fácil uso para un cajero virtual|
+|Tecnología|Prefieren la utilización de un móvil como dispositivo de fácil uso y accesible.|
   
 * **Encuestas**
 

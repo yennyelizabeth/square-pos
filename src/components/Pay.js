@@ -45,8 +45,11 @@ class PayList extends Component {
             <input type="number" class="form-control" placeholder="Monto recibido" value={this.state.monto} onChange={this.update.bind(this)}/>
             <ul>
               <li>Monto:  <span>{`${localStorage.total}.00`}</span></li>
-              <li>Vuelto: <span>00.00</span></li>
+              <li>Vuelto: <span>{this.state.monto - localStorage.total}</span></li>
             </ul>
+            {/* <div className="text-center">
+              <button type="button" class="btn btn-primary btn-block" onClick={this.calculo.bind(this)}>COBRAR</button>
+            </div> */}
           </div>
         </div>
         <br />
@@ -75,7 +78,7 @@ class PayList extends Component {
           </div>
         </div>
         <div className="text-center">
-          <button type="button" class="btn btn-primary btn-block" onClick={this.calculo.bind(this)}>COBRAR</button>
+          <button type="button" class="btn btn-primary btn-block">COBRAR</button>
         </div>
       </form>
     </div>
@@ -90,7 +93,7 @@ class PayList extends Component {
   }
 
   calculo() {
-    alert('valor del input' + this.state.monto);
+    console.log(this.state.monto - localStorage.total);
   }
 }
 

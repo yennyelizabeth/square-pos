@@ -22,6 +22,7 @@ class PayList extends Component {
     super();
     this.state = {
       monto:'',
+      montResiduo:''
     }
   }
 
@@ -47,9 +48,9 @@ class PayList extends Component {
               <li>Monto:  <span>{`${localStorage.total}.00`}</span></li>
               <li>Vuelto: <span>{this.state.monto - localStorage.total}</span></li>
             </ul>
-            {/* <div className="text-center">
+            <div className="text-center">
               <button type="button" class="btn btn-primary btn-block" onClick={this.calculo.bind(this)}>COBRAR</button>
-            </div> */}
+            </div>
           </div>
         </div>
         <br />
@@ -58,7 +59,7 @@ class PayList extends Component {
             <input type="checkbox" class="form-check-input" value="" /><img src={tarjeta} />Tarjeta(Crédito)
           </label>
           <div className="input-credito">
-            <input disabled class="form-control" placeholder="Monto a cobrar" />
+            <input disabled class="form-control" placeholder="Monto a cobrar" value={this.state.montoResiduo} />
             <input disabled class="form-control" placeholder="Número de tarjeta" />
             <input disabled class="form-control" placeholder="Nombre del titular" />
             <div className="input-credito-icons">
@@ -93,7 +94,17 @@ class PayList extends Component {
   }
 
   calculo() {
-    console.log(this.state.monto - localStorage.total);
+    let  rest = this.state.monto - localStorage.total;
+    console.log(rest);
+    console.log(this.state.montoResiduo);
+    if ((rest) < 0 ){
+      console.log(Math.abs(rest));
+      this.setState({
+        montoResiduo : Math.abs(rest)
+      })
+      // this.state.montoResiduo = Math.abs(rest);
+    }
+
   }
 }
 

@@ -10,14 +10,18 @@ import pregunta from '../assets/icons/pregunta.png';
 import calendario from '../assets/icons/calendario.png';
 import PropTypes from 'prop-types';
 
-
+const calculate = props => {
+  let price = localStorage.total;
+  let mont = document.getElementById('mountInput');
+  let result = Number(mont.value) - Number(price);
+  console.log(result);
+}
 
 class PayList extends Component {
   constructor() {
     super();
     this.state = {
       monto:'',
-
     }
   }
 
@@ -28,7 +32,7 @@ class PayList extends Component {
       <div class="col-12 monto-pay">
         <p>Detalle de compra</p>
         <div>     
-          S/ 14.00
+          S/{`${localStorage.total}.00`}
         </div>
       </div>
       <form>
@@ -40,7 +44,7 @@ class PayList extends Component {
           <div className="input-efectivo">
             <input type="number" class="form-control" placeholder="Monto recibido" value={this.state.monto} onChange={this.update.bind(this)}/>
             <ul>
-              <li>Monto:  <span>00.00</span></li>
+              <li>Monto:  <span>{`${localStorage.total}.00`}</span></li>
               <li>Vuelto: <span>00.00</span></li>
             </ul>
           </div>
@@ -64,7 +68,7 @@ class PayList extends Component {
               <div class="col-6">
                 <div class="input-group">
                   <span class="input-group-addon"><img src={pregunta}/></span>
-                  <input type="text" class="form-control" aria-label="Text input with radio button" placeholder="CVC"/>
+                  <input  maxlength="3" pattern="[0-9]{3}" type="text" class="form-control" aria-label="Text input with radio button" placeholder="CVC"/>
                 </div>
               </div>
             </div>
@@ -86,7 +90,7 @@ class PayList extends Component {
   }
 
   calculo() {
-    alert('hola' + this.state.monto);
+    alert('valor del input' + this.state.monto);
   }
 }
 

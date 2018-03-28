@@ -9,6 +9,9 @@ import 'bootstrap/dist/js/bootstrap.min.js';
 
 
 const ShoppingCart = ({ cart, removeFromCart }) => {
+  let suma = cart.reduce((sum, product) => sum + product.price, 0);
+  localStorage.setItem('total', suma);
+  console.log(suma);
 
   return (
     <div className="col-4 shop">

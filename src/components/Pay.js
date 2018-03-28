@@ -13,7 +13,7 @@ const PayList = () => (
 
   <div class="container form-pay">
     <div class="row">
-      <div class="col-12 monto">
+      <div class="col-12 monto-pay">
         <p>Detalle de compra</p>
         <div>     
           S/ 14.00
@@ -25,7 +25,7 @@ const PayList = () => (
           <label class="form-check-label">
             <input type="checkbox" class="form-check-input" value=""/><img src={dinero}/>Efectivo
           </label>
-          <div className="">
+          <div className="input-efectivo">
             <input placeholder="Monto recibido"/>
             <ul>
               <li>Monto: <span>00.00</span></li>
@@ -33,30 +33,31 @@ const PayList = () => (
             </ul>
           </div>
         </div>
-          
         <div class="form-check">
           <label class="form-check-label ">
             <input type="checkbox" class="form-check-input" value=""/><img src={tarjeta}/>Tarjeta(Crédito)
           </label>
-          <div className="inputs">
+          <div className="input-credito">
             <input placeholder="Monto a cobrar"/>
             <input placeholder="Número de tarjeta"/>
             <input placeholder="Nombre del titular"/>
-            <div class="col-lg-6">
-              <div class="input-group">
-                <span class="input-group-addon"><img src={calendario}/></span>
-                <input type="text" class="form-control" aria-label="Text input with checkbox"/>
+            <div className="input-credito-icons">
+              <div class="col-6">
+                <div class="input-group">
+                  <span class="input-group-addon"><img src={calendario}/></span>
+                  <input type="text" class="form-control" aria-label="Text input with checkbox"/>
+                </div>
               </div>
-            </div>
-            <div class="col-lg-6">
-              <div class="input-group">
-                <span class="input-group-addon"><img src={pregunta}/></span>
-                <input type="text" class="form-control" aria-label="Text input with radio button"/>
+              <div class="col-6">
+                <div class="input-group">
+                  <span class="input-group-addon"><img src={pregunta}/></span>
+                  <input type="text" class="form-control" aria-label="Text input with radio button"/>
+                </div>
               </div>
             </div>
           </div>
         </div>
-        <div>
+        <div className="text-center">
           <button>COBRAR</button>
         </div>
       </form>

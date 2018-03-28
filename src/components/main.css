@@ -173,3 +173,18 @@ form img{
     padding-top:11px;
     margin:0;
 }
+
+.date {
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.fa-calendar-alt{
+    margin-left: 70%;
+    font-size: 25px;
+    color: rgb(59, 145, 216);
+}
+
+.caja {
+    margin-left: 120px!important;
+}

@@ -100,3 +100,39 @@ form img{
     align-items: center;
     justify-content: center;
 }
+
+.form-check-input{
+    border:none;
+    background-color: none;
+    height:20px ;
+    width: 20px;
+}
+
+.input-efectivo{
+    margin: 15px;
+}
+
+.form-check-1{
+    border-bottom: 1px solid rgb(199, 199, 252);
+}
+
+.input-efectivo ul{
+    margin:10px;
+    list-style: none;
+}
+
+.input-credito{
+    padding: 10px;
+}
+.input-credito input{
+    margin: 10px;
+}
+
+.form-pay button{
+    margin:20px 0 0 0;
+}
+
+.input-credito-icons span{
+    padding-top:11px;
+    margin:0;
+}

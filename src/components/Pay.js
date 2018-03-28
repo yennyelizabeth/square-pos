@@ -21,44 +21,45 @@ const PayList = () => (
       </div>
       <form>
         <p>Seleccionar una forma de pago</p>
-        <div class="form-check">
+        <div class="form-check form-check-1">
           <label class="form-check-label">
             <input type="checkbox" class="form-check-input" value=""/><img src={dinero}/>Efectivo
           </label>
           <div className="input-efectivo">
-            <input placeholder="Monto recibido"/>
+            <input class="form-control" placeholder="Monto recibido"/>
             <ul>
-              <li>Monto: <span>00.00</span></li>
+              <li>Monto:  <span>00.00</span></li>
               <li>Vuelto: <span>00.00</span></li>
             </ul>
           </div>
         </div>
+        <br/>
         <div class="form-check">
           <label class="form-check-label ">
             <input type="checkbox" class="form-check-input" value=""/><img src={tarjeta}/>Tarjeta(Crédito)
           </label>
           <div className="input-credito">
-            <input placeholder="Monto a cobrar"/>
-            <input placeholder="Número de tarjeta"/>
-            <input placeholder="Nombre del titular"/>
+            <input class="form-control" placeholder="Monto a cobrar"/>
+            <input class="form-control" placeholder="Número de tarjeta"/>
+            <input class="form-control" placeholder="Nombre del titular"/>
             <div className="input-credito-icons">
               <div class="col-6">
                 <div class="input-group">
                   <span class="input-group-addon"><img src={calendario}/></span>
-                  <input type="text" class="form-control" aria-label="Text input with checkbox"/>
+                  <input type="text" class="form-control" aria-label="Text input with checkbox" placeholder="Fecha de exp."/>
                 </div>
               </div>
               <div class="col-6">
                 <div class="input-group">
                   <span class="input-group-addon"><img src={pregunta}/></span>
-                  <input type="text" class="form-control" aria-label="Text input with radio button"/>
+                  <input type="text" class="form-control" aria-label="Text input with radio button" placeholder="CVC"/>
                 </div>
               </div>
             </div>
           </div>
         </div>
         <div className="text-center">
-          <button>COBRAR</button>
+          <button type="button" class="btn btn-primary btn-block">COBRAR</button>
         </div>
       </form>
     </div>

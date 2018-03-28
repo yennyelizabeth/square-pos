@@ -43,9 +43,7 @@
 
 
 /*Estilo componente Intro*/
-nav.navbar.navbar-expand-lg.navbar-light.bg-light{
-   padding: 0;
-}
+ 
 a.nav-link{
   /* background: var(--color-blue); */
   padding: 1rem 1rem;
@@ -55,9 +53,13 @@ a.nav-link{
   line-height: 1rem;
   letter-spacing: 2px; 
 }
-a {
-    /* color: white; */
+ 
+/*Titulo logo*/
+a.navbar-brand {
+    font-size: 2rem;
+    font-weight: 800;
 }
+
   /*iconos del menu*/
 .icons_menu {
   height: 2rem;

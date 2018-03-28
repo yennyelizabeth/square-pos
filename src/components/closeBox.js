@@ -1,7 +1,7 @@
 import React from 'react'
 
 const CloseBox = () => (
-    <div>CloseBox</div>
+    <div>Aqui el cierre de caja</div>
 )
 
 export default CloseBox

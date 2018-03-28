@@ -1,7 +1,7 @@
 import React from 'react'
 
 const OpenBox = () => (
-    <div>OpenBox</div>
+    <div>Aqui empieza el arqueo de caja</div>
 )
 
 export default OpenBox

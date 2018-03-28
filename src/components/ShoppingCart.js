@@ -20,10 +20,15 @@ const ShoppingCart = ({ cart, removeFromCart }) => {
 
           <div className="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
             <div className="modal-dialog" role="document">
-              <div className="modal-content"> 
+              <div className="modal-content">
+                <div class="modal-header">                  
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
                 <div className="modal-body">
                   <PayList />
-                </div>         
+                </div>
               </div>
             </div>
           </div>

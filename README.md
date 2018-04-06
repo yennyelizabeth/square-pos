@@ -5,7 +5,8 @@ finalmente podrás realizar un cuadre de caja al final del día.
 
 ![square](https://user-images.githubusercontent.com/32285958/38431507-16e966dc-398a-11e8-963e-c576086d57b2.PNG)
 
-
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
 ---
 ![foto-cel1](https://user-images.githubusercontent.com/31896385/38016399-7f2e163c-3234-11e8-9564-0507d9109022.jpg)
 

@@ -22,17 +22,17 @@ Square POS es una de las mejores apps para punto de venta, sin embargo, no tiene
 Para el desarrollo del trabajo, se tiene el siguiente esquema de trabajo.
 
 
-### 🚩 Tabla de contenido
-- [Organización](#Organización)
-- [Planificación](#Planificación)
-- [Investigación de contexto](#Investigación-de-contexto-del-servicio)
-- [Benchmark](#Benchmark)
-- [Entrevista y encuestas](#Entrevista-y-encuestas)
-- [User Persona](#User-Persona)
-- [Características](#Características)
-- [Mapa de sitio](#Mapa-de-sitio)
-- [Prototipo](#Prototipo)
-- [Herramientas](#Herramientas)
+###  Tabla de contenido
+- [Organización](###Organización)
+- [Planificación](###Planificación)
+- [Investigación de contexto](###Investigación-de-contexto-del-servicio)
+- [Benchmark](###Benchmark)
+- [Entrevista y encuestas](###Entrevista-y-encuestas)
+- [User Persona](###User-Persona)
+- [Características](###Características)
+- [Mapa de sitio](###Mapa-de-sitio)
+- [Prototipo](###Prototipo)
+- [Herramientas](###Herramientas)
 
 
 ### Organización

@@ -2,6 +2,11 @@
 Es una App que te permite contar con un catálogo de productos con precios y stocks, cobros en efectivo y tarjeta de crédito,
 finalmente podrás realizar un cuadre de caja al final del día.
 
+
+![square](https://user-images.githubusercontent.com/32285958/38431507-16e966dc-398a-11e8-963e-c576086d57b2.PNG)
+
+
+---
 ![foto-cel1](https://user-images.githubusercontent.com/31896385/38016399-7f2e163c-3234-11e8-9564-0507d9109022.jpg)
 
 ## Proyecto desarrollado en [Laboratoria](http://laboratoria.la)

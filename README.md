@@ -18,7 +18,6 @@ Square POS es una de las mejores apps para punto de venta, sin embargo, no tiene
 Este es el video :https://www.youtube.com/watch?v=WTvMJpss_bc
 [![SQUARE POS](https://img.youtube.com/vi/WTvMJpss_bc/0.jpg)](https://www.youtube.com/watch?v=WTvMJpss_bc)
 
-
 La idea es que crees una app parecida pero adaptada a las necesidades de tu país en términos de flujos, monedas e impuestos.
 
 ## Solución
@@ -54,9 +53,9 @@ La idea es que crees una app parecida pero adaptada a las necesidades de tu paí
 
 ### Objetivos del Proyecto
 
-Objetivo General: Rediseño de Square PoS.
+General: Rediseño de Square PoS.
 
-Ojetivos específicos:
+Específicos:
 - Investigar al usuario y su contexto.
 - Investigar sobre square-pos.
 - Análizar relación usuario y square-pos.
@@ -66,33 +65,24 @@ Ojetivos específicos:
 
 ### Actividades
 
-* **Comunes**
-
-| Ux Designer y  Front-End|Frecuencia |
-| :----------- | :----------- |
-| Daily Stand Up|
-| Intercambio de aportes de experiencias de interacción con el producto|Diaria |
-| Intercambio de consultas y propuestas|Diaria |
-| Comunicación de diseños y desarrollos|Diaria |
-| Retrospectiva|Diaria |
-
-* **Paralelas**
-
-| Ux Designer |  Front-End |
-| :----------- | :----------- | 
-| Investigación de contexto| Definición de estructura de funcionalidad |
-| Benchmark | Distribución |
-| Entrevista a usuarios| Desarrollo |
-| Encuestas|  |
-| Elaboración de user-persona|  |
-| Definición de característica|  |
-| Elaboración del Mapa del sitio|  |
-| Elaboración del Prototipo en Papel|  |
-| Testeo Nro 1|  |
+| Ux Designer y  Front-End|Ux Designer |Front-End|
+| :----------- | :----------- |:----------- |
+| Daily Stand Up|Investigación de contexto|Definición de estructura de funcionalidad |
+| Intercambio de experiencias de interacción con el producto|Benchmark |Distribución |
+| Intercambio de consultas y propuestas| Entrevista a usuarios| Desarrollo |
+| Comunicación de diseños y desarrollos|Encuestas||
+| Retrospectiva|Elaboración de user-persona||
+||Definición de característica||
+||Elaboración del Mapa del sitio|  |
+||Elaboración del Prototipo en Papel|  |
+||Testeo Nro 1|  |
 
 ## Investigación de Contexto 
 Se tiene el siguiente marco de contexto para iniciar el proyecto, que consiste en la alineación de los requisitos: 
-![square-pos](https://user-images.githubusercontent.com/31896385/58065958-1a923b00-7b4d-11e9-8450-f70fd9998241.PNG)
+
+<p align="center">
+<img alt="" title="" src="https://user-images.githubusercontent.com/31896385/58065958-1a923b00-7b4d-11e9-8450-f70fd9998241.PNG" width="500">
+</p>
 
 
 ## Benchmark
@@ -103,7 +93,7 @@ Se está realizando un Benchmark entre soluciones similares, y se preparan concl
 |  | | | https://drive.google.com/open?id=1UKAbqseebfFe_fdLuBha2TvGxUo5KkMromuPs5brncU| 
 
 
-## Entrevista-y-encuestas
+## Entrevista y encuestas
 
 * **Entrevistas**
 

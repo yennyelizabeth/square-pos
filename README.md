@@ -13,19 +13,16 @@ Es una App que te permite la apertura de caja, contar con un catálogo de produc
 
 ## En  [Peru](http://peru.com)
 
-## Replicar y Rediseñar la app de Square POS
+## Réplica y rediseño de Square POS
 Square POS es una de las mejores apps para punto de venta, sin embargo, no tiene aún soporte para latinoamérica.Esta es la app y aquí puedes ver un video de sus principales funciones.
 
 Este es el video :https://www.youtube.com/watch?v=WTvMJpss_bc
 [![SQUARE POS](https://img.youtube.com/vi/WTvMJpss_bc/0.jpg)](https://www.youtube.com/watch?v=WTvMJpss_bc)
-. La idea es que crees una app parecida pero adaptada a las necesidades de tu país en términos de flujos, monedas e impuestos.
-
-## Descripción:
-
-Para el desarrollo del trabajo, se tiene el siguiente esquema de trabajo.
 
 
-###  Tabla de contenido
+La idea es que crees una app parecida pero adaptada a las necesidades de tu país en términos de flujos, monedas e impuestos.
+
+## Tabla de contenido
 - [Organización](###Organización)
 - [Planificación](###Planificación)
 - [Investigación de contexto](###Investigación-de-contexto-del-servicio)
@@ -38,7 +35,7 @@ Para el desarrollo del trabajo, se tiene el siguiente esquema de trabajo.
 - [Herramientas](###Herramientas)
 
 
-### Organización
+## Organización
 
 | Integrantes |Especialidad |
 | :----------- | :---------: |
@@ -49,8 +46,7 @@ Para el desarrollo del trabajo, se tiene el siguiente esquema de trabajo.
 | Kathy Lévano| Front End|
 
 
-
-### Planificación
+## Planificación
 
 ### Comprensión del problema
 - Entender el problema ,debemos investigar y explorar para definir los objetivos
@@ -59,12 +55,11 @@ Para el desarrollo del trabajo, se tiene el siguiente esquema de trabajo.
 * **Necesidades de los usuarios**
 * **Limitaciones de la tecnología**
 
-#### Objetivos del Proyecto
+### Objetivos del Proyecto
 
-El Objetivo General:
-- Rediseño de la aplicación Square PoS
+Objetivo General: Rediseño de Square PoS.
 
-Los objetivos específicos:
+Ojetivos específicos:
 - Investigar al usuario y su contexto.
 - Investigar sobre la square-pos.
 - Análizar relación usuario y square-pos.
@@ -72,7 +67,7 @@ Los objetivos específicos:
 - Desarrollar un producto mínimo viable en paralelo.
 - Identificar y desarrollar las funcionalidades del producto minimo viable.
 
-#### Actividades
+### Actividades
 
 * **Comunes**
 
@@ -98,13 +93,7 @@ Los objetivos específicos:
 | Elaboración del Prototipo en Papel|  |
 | Testeo Nro 1|  |
 
-
-| Cronograma |  Documentación|
-| :----------- | :----------- | 
-| Documento de excel| https://drive.google.com/open?id=1AnZtR_4y7T8pHOQQF3jfSZv_B54MH36VZs4PUDWsQME |
-
-
-### 📜 Investigación de Contexto 
+## 📜 Investigación de Contexto 
 Se realizó una investigación de contexto, y se preparan conclusiones:
 
 | Usuario |  Descripción de Contexto|
@@ -112,22 +101,16 @@ Se realizó una investigación de contexto, y se preparan conclusiones:
 | Vendedor| https://drive.google.com/open?id=1Srp1ozRHMicDbH4n4FlmQ4V0QegGMMue3xXmqWwDVnY |
 
 
-### 📙 Benchmark
+## 📙 Benchmark
 
 Se está realizando un Benchmark entre soluciones similares, y se preparan conclusiones finales:
 
-| A nivel mundial |  A nivel regional-latinoamericano|A nivel local-país| 
-| :----------- | :----------- | :----------- | 
-|  | | | 
+| A nivel mundial |  A nivel regional-latinoamericano|A nivel local-país| Documentación| 
+| :----------- | :----------- | :----------- | :----------- | 
+|  | | | https://drive.google.com/open?id=1UKAbqseebfFe_fdLuBha2TvGxUo5KkMromuPs5brncU| 
 
 
-| Referencias |  Documentación|
-| :----------- | :----------- | 
-| Documento en excel| https://drive.google.com/open?id=1UKAbqseebfFe_fdLuBha2TvGxUo5KkMromuPs5brncU |
-
-
-
-### Entrevista-y-encuestas
+## Entrevista-y-encuestas
 
 💾* **Entrevistas**
 

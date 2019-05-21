@@ -1,6 +1,5 @@
 # SQUARE PoS
-Es una App que te permite contar con un catálogo de productos con precios y stocks, cobros en efectivo y tarjeta de crédito,
-finalmente podrás realizar un cuadre de caja al final del día.
+Es una App que te permite la apertura de caja, contar con un catálogo de productos con precios y stocks, cobros en efectivo y tarjeta de crédito,finalmente podrás realizar el cierre de caja al final del día.
 
 
 ![square](https://user-images.githubusercontent.com/32285958/38431507-16e966dc-398a-11e8-963e-c576086d57b2.PNG)
@@ -14,8 +13,12 @@ finalmente podrás realizar un cuadre de caja al final del día.
 
 ## En  [Peru](http://peru.com)
 
-## Replicar la app de Square POS
-Square POS es una de las mejores apps para punto de venta, sin embargo, no tiene aún soporte para latinoamérica.Esta es la app y aquí puedes ver un video de sus principales funciones. La idea es que crees una app parecida pero adaptada a las necesidades de tu país en términos de flujos, monedas e impuestos.
+## Replicar y Rediseñar la app de Square POS
+Square POS es una de las mejores apps para punto de venta, sin embargo, no tiene aún soporte para latinoamérica.Esta es la app y aquí puedes ver un video de sus principales funciones.
+
+Este es el video :https://www.youtube.com/watch?v=WTvMJpss_bc
+[![SQUARE POS](https://img.youtube.com/vi/WTvMJpss_bc/0.jpg)](https://www.youtube.com/watch?v=WTvMJpss_bc)
+. La idea es que crees una app parecida pero adaptada a las necesidades de tu país en términos de flujos, monedas e impuestos.
 
 ## Descripción:
 
@@ -143,12 +146,10 @@ Se obtuvo las siguientes conclusiones:
 | Venta| Les agradaba y se sentían indetificados con la actividad de venta que realizaban. |
 || Conocen los productos que ofrecen.|
 || En su mayoría, conocen a los clientes.|
-|| En su mayoría, conocen a los clientes.|
-|Cobrar|El cobro se realiza principalmente en efectivo.|
-|Cobrar|Otras de forma pago son el pago con tarjeta y transferencias.|
+|Cobrar|El cobro se realiza principalmente en efectivo, otras formas son pago con tarjeta y transferencias|
 |Caja|La apertura y cierre de caja es manual en su mayoría, en algunos casos se apoyan en hojas de cálculo.|
 |Inventario|Inventarean productos manualmente, en algunos casos se apoyan en hojas de cálculo.|
-|Tecnología|Prefieren la utilización de un móvil como dispositivo de fácil uso y accesible.|
+|Tecnología|Prefieren la utilización de un móvil como dispositivo de fácil uso ,accesible sin mayor inversión|
   
 🌏* **Encuestas**
 
@@ -166,7 +167,7 @@ Se obtuvo las siguientes conclusiones:
 
 | Usuario | Tema |  Conclusiones |
 | :----------- | :----------- | :----------- | 
-| Vendedores |  |  | 
+| Vendedores |  |   | 
 | Clientes |  |  | 
 
 ![encuestas-1](https://user-images.githubusercontent.com/31896385/38021855-94ebc8b6-3243-11e8-99fc-549e8d98498d.png)
@@ -187,30 +188,30 @@ De acuerdo a la investigación, se ha identificado la user persona: una vendedor
 Luego de la investigación, se han identificado las siguientes principales funcionalidades y características
 
 * **Apertura de Caja**
-- Al inicio del día
-- Selecciona fecha del día
-- Ingresar el monto de caja chica
+Al inicio del día
+Selecciona fecha del día
+Ingresar el monto de caja chica
 
 * **Catálogo de Productos**
-- Ingreso de productos ( con toda su descripción)
+Ingreso de productos ( con toda su descripción)
 
 * **Vemta con carrito**
-- Busca producto
-- Visualiza información de producto
-- Agrega producto a carrito
-- Consulta carrito el detalle de productos 
-- Opción de eliminar productos en el carrito 
-- Acumulación de montos de los productos seleccionados
+Busca producto
+Visualiza información de producto
+Agrega producto a carrito
+Consulta carrito el detalle de productos 
+Opción de eliminar productos en el carrito 
+Acumulación de montos de los productos seleccionados
 
 * **Cobro de venta**
-- Botón de cobro con acumulado de venta
-- Selección de medio de pago , que puede ser combinado ( efectivo y con tarjeta)
-- Ingreso de datos de pago de tarjeta
+Botón de cobro con acumulado de venta
+Selección de medio de pago , que puede ser combinado ( efectivo y con tarjeta)
+Ingreso de datos de pago de tarjeta
 
 * **Cierre de caja**
-- Muestra saldo inicial de apertura de caja del día
-- Seleccion fecha del día que se hará el cierre
-- Acumulará las operaciones desde que se abrió la cuenta hasta la fecha que se está haciendo cierre
+Muestra saldo inicial de apertura de caja del día
+Seleccion fecha del día que se hará el cierre
+Acumulará las operaciones desde que se abrió la cuenta hasta la fecha que se está haciendo cierre
 
 
 ### Mapa del Sitio

@@ -49,11 +49,9 @@ La idea es que crees una app parecida pero adaptada a las necesidades de tu paí
 ## Planificación
 
 ### Comprensión del problema
-- Entender el problema ,debemos investigar y explorar para definir los objetivos
+Entender el problema ,debemos investigar y explorar para definir los objetivos. Para ello, es necesario conocer los requerimientos del negocio, las necesidades de los usuarios y los requisitos en tecnología.
 
-* **Objetivos del negocio**
-* **Necesidades de los usuarios**
-* **Limitaciones de la tecnología**
+![square-pos](https://user-images.githubusercontent.com/31896385/58065958-1a923b00-7b4d-11e9-8450-f70fd9998241.PNG)
 
 ### Objetivos del Proyecto
 
@@ -61,7 +59,7 @@ Objetivo General: Rediseño de Square PoS.
 
 Ojetivos específicos:
 - Investigar al usuario y su contexto.
-- Investigar sobre la square-pos.
+- Investigar sobre square-pos.
 - Análizar relación usuario y square-pos.
 - Identificar las características a mejorar en el rediseño.
 - Desarrollar un producto mínimo viable en paralelo.
@@ -93,15 +91,12 @@ Ojetivos específicos:
 | Elaboración del Prototipo en Papel|  |
 | Testeo Nro 1|  |
 
-## 📜 Investigación de Contexto 
+## Investigación de Contexto 
 Se realizó una investigación de contexto, y se preparan conclusiones:
 
-| Usuario |  Descripción de Contexto|
-| :----------- | :----------- | 
-| Vendedor| https://drive.google.com/open?id=1Srp1ozRHMicDbH4n4FlmQ4V0QegGMMue3xXmqWwDVnY |
 
 
-## 📙 Benchmark
+## Benchmark
 
 Se está realizando un Benchmark entre soluciones similares, y se preparan conclusiones finales:
 
@@ -112,7 +107,7 @@ Se está realizando un Benchmark entre soluciones similares, y se preparan concl
 
 ## Entrevista-y-encuestas
 
-💾* **Entrevistas**
+* **Entrevistas**
 
 ![entrevistas](https://user-images.githubusercontent.com/31896385/38019592-a3cf7856-323d-11e8-89cb-76173ba6406d.png)
 
@@ -134,7 +129,7 @@ Se obtuvo las siguientes conclusiones:
 |Inventario|Inventarean productos manualmente, en algunos casos se apoyan en hojas de cálculo.|
 |Tecnología|Prefieren la utilización de un móvil como dispositivo de fácil uso ,accesible sin mayor inversión|
   
-🌏* **Encuestas**
+* **Encuestas**
 
 ![google2bforms](https://user-images.githubusercontent.com/31896385/38020309-7cfeaf74-323f-11e8-9539-a277632931fd.jpg)
 
@@ -157,14 +152,14 @@ Se obtuvo las siguientes conclusiones:
 ![resumen-entrevista-2](https://user-images.githubusercontent.com/31896385/38022027-08d6ca00-3244-11e8-88c8-a7391d127916.png)
 
 
-### 🎨 User Persona
+## User Persona
 
 De acuerdo a la investigación, se ha identificado la user persona: una vendedora de un minimarket-bodega, el cual está detallado en el siguiente gráfico.
 
 ![luisa-rodriguez](https://user-images.githubusercontent.com/31896385/38031513-ef3137bc-3260-11e8-9f34-8c884117aaa2.jpg)
 
 
-### 🎨 Características
+## Características 
 
 ![cajero-square](https://user-images.githubusercontent.com/31896385/38039136-35ebbf54-3272-11e8-907f-31fb6c83b2e2.jpg)
 
@@ -197,14 +192,9 @@ Seleccion fecha del día que se hará el cierre
 Acumulará las operaciones desde que se abrió la cuenta hasta la fecha que se está haciendo cierre
 
 
-### Mapa del Sitio
+## Mapa del Sitio
 
-Se elaborará un mapa de sitio del rediseño propuesto.
-
-| Demo| Documentación|
-| :----------- | :----------- | 
-| Mapa del Sitio | https://drive.google.com/open?id=1D22Z9Okn1NhggYMHYLlhRJJrwc915KTtM0RitmVczxY  | 
-
+Se elabora un mapa de sitio del rediseño propuesto.
 
 ### 🚀 Prototipo
 

@@ -1,7 +1,6 @@
 # SQUARE PoS
 Es una App que te permite la apertura de caja, contar con un catálogo de productos con precios y stocks, cobros en efectivo y tarjeta de crédito,finalmente podrás realizar el cierre de caja al final del día.
 
-
 ![square](https://user-images.githubusercontent.com/32285958/38431507-16e966dc-398a-11e8-963e-c576086d57b2.PNG)
 
 ## Desarrollado para 
@@ -21,6 +20,11 @@ Este es el video :https://www.youtube.com/watch?v=WTvMJpss_bc
 
 
 La idea es que crees una app parecida pero adaptada a las necesidades de tu país en términos de flujos, monedas e impuestos.
+
+## Solución
+<p align="center">
+<img alt="" title="" src="https://user-images.githubusercontent.com/31896385/58066484-2121b200-7b4f-11e9-8b05-a589d47623b3.png" width="500">
+</p>
 
 ## Tabla de contenido
 - [Organización](###Organización)
@@ -47,11 +51,6 @@ La idea es que crees una app parecida pero adaptada a las necesidades de tu paí
 
 
 ## Planificación
-
-### Comprensión del problema
-Entender el problema ,debemos investigar y explorar para definir los objetivos. Para ello, es necesario conocer los requerimientos del negocio, las necesidades de los usuarios y los requisitos en tecnología.
-
-![square-pos](https://user-images.githubusercontent.com/31896385/58065958-1a923b00-7b4d-11e9-8450-f70fd9998241.PNG)
 
 ### Objetivos del Proyecto
 
@@ -92,12 +91,11 @@ Ojetivos específicos:
 | Testeo Nro 1|  |
 
 ## Investigación de Contexto 
-Se realizó una investigación de contexto, y se preparan conclusiones:
-
+Se tiene el siguiente marco de contexto para iniciar el proyecto, que consiste en la alineación de los requisitos: 
+![square-pos](https://user-images.githubusercontent.com/31896385/58065958-1a923b00-7b4d-11e9-8450-f70fd9998241.PNG)
 
 
 ## Benchmark
-
 Se está realizando un Benchmark entre soluciones similares, y se preparan conclusiones finales:
 
 | A nivel mundial |  A nivel regional-latinoamericano|A nivel local-país| Documentación| 

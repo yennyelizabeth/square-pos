@@ -26,16 +26,16 @@ La idea es que crees una app parecida pero adaptada a las necesidades de tu paí
 </p>
 
 ## Tabla de contenido
-- [Organización](###Organización)
-- [Planificación](###Planificación)
-- [Investigación de contexto](###Investigación-de-contexto-del-servicio)
-- [Benchmark](###Benchmark)
-- [Entrevista y encuestas](###Entrevista-y-encuestas)
-- [User Persona](###User-Persona)
-- [Características](###Características)
-- [Mapa de sitio](###Mapa-de-sitio)
-- [Prototipo](###Prototipo)
-- [Herramientas](###Herramientas)
+- [Organización](##Organización)
+- [Planificación](##Planificación)
+- [Investigación de contexto](##Investigación-de-contexto-del-servicio)
+- [Benchmark](##Benchmark)
+- [Entrevista y encuestas](##Entrevista-y-encuestas)
+- [User Persona](##User-Persona)
+- [Características](##Características)
+- [Mapa de sitio](##Mapa-de-sitio)
+- [Prototipo](##Prototipo)
+- [Herramientas](##Herramientas)
 
 
 ## Organización

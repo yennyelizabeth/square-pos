@@ -38,7 +38,7 @@ La idea es que crees una app parecida pero adaptada a las necesidades de tu paí
 - [Herramientas](##Herramientas)
 
 
-## Organización
+##Organización
 
 | Integrantes |Especialidad |
 | :----------- | :---------: |
@@ -49,7 +49,7 @@ La idea es que crees una app parecida pero adaptada a las necesidades de tu paí
 | Kathy Lévano| Front End|
 
 
-## Planificación
+##Planificación
 
 ### Objetivos del Proyecto
 
@@ -77,7 +77,7 @@ Específicos:
 ||Elaboración del Prototipo en Papel|  |
 ||Testeo Nro 1|  |
 
-## Investigación de Contexto 
+##Investigación de Contexto 
 Se tiene el siguiente marco de contexto para iniciar el proyecto, que consiste en la alineación de los requisitos: 
 
 <p align="center">
@@ -85,7 +85,7 @@ Se tiene el siguiente marco de contexto para iniciar el proyecto, que consiste e
 </p>
 
 
-## Benchmark
+##Benchmark
 Se está realizando un Benchmark entre soluciones similares, y se preparan conclusiones finales:
 
 | A nivel mundial |  A nivel regional-latinoamericano|A nivel local-país| Documentación| 
@@ -93,7 +93,7 @@ Se está realizando un Benchmark entre soluciones similares, y se preparan concl
 |  | | | https://drive.google.com/open?id=1UKAbqseebfFe_fdLuBha2TvGxUo5KkMromuPs5brncU| 
 
 
-## Entrevista y encuestas
+##Entrevista y encuestas
 
 * **Entrevistas**
 
@@ -140,14 +140,14 @@ Se obtuvo las siguientes conclusiones:
 ![resumen-entrevista-2](https://user-images.githubusercontent.com/31896385/38022027-08d6ca00-3244-11e8-88c8-a7391d127916.png)
 
 
-## User Persona
+##User Persona
 
 De acuerdo a la investigación, se ha identificado la user persona: una vendedora de un minimarket-bodega, el cual está detallado en el siguiente gráfico.
 
 ![luisa-rodriguez](https://user-images.githubusercontent.com/31896385/38031513-ef3137bc-3260-11e8-9f34-8c884117aaa2.jpg)
 
 
-## Características 
+##Características 
 
 ![cajero-square](https://user-images.githubusercontent.com/31896385/38039136-35ebbf54-3272-11e8-907f-31fb6c83b2e2.jpg)
 
@@ -180,11 +180,11 @@ Seleccion fecha del día que se hará el cierre
 Acumulará las operaciones desde que se abrió la cuenta hasta la fecha que se está haciendo cierre
 
 
-## Mapa del Sitio
+##Mapa del Sitio
 
 Se elabora un mapa de sitio del rediseño propuesto.
 
-### 🚀 Prototipo
+##Prototipo
 
 * **Prototipo de Baja Fidelidad**
 Se ha elaborado un prototipo en papel.

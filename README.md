@@ -69,7 +69,7 @@ Específicos:
 Se tiene el siguiente marco de contexto para iniciar el proyecto, que consiste en la alineación de los requisitos: 
 
 <p align="center">
-<img alt="" title="" src="https://user-images.githubusercontent.com/31896385/58065958-1a923b00-7b4d-11e9-8450-f70fd9998241.PNG" width="500">
+<img alt="" title="" src="https://user-images.githubusercontent.com/31896385/58065958-1a923b00-7b4d-11e9-8450-f70fd9998241.PNG" width="750">
 </p>
 
 
@@ -142,42 +142,14 @@ De acuerdo a la investigación, se ha identificado la user persona: una vendedor
 Luego de la investigación, se han identificado las siguientes principales funcionalidades y características
 
 
-| **Apertura de Caja** |**Catálogo de Productos**|**Vemta con carrito**|**Cobro de venta**|**Cierre de caja**|
+| **Apertura de Caja** |**Catálogo de Productos**|**Venta con carrito**|**Cobro de venta**|**Cierre de caja**|
 | :----------- | :---------: |:---------: |:---------: |:---------: |
-|Al inicio del día| Ingreso de productos|Busca producto|Botón de cobro con acumulado de venta||Ingreso de datos de pago de tarjeta|Muestra saldo inicial de apertura de caja del día|
+|Al inicio del día| Ingreso de productos|Busca producto|Botón de cobro con acumulado de venta|Muestra saldo inicial de apertura de caja del día|
 | Selecciona fecha del día||Visualiza información de producto|Selección de medio de pago( efectivo y/o con tarjeta)|Seleccion fecha del día que se hará el cierre|
 | Ingresar el monto de caja chica||Agrega producto a carrito|Ingreso de datos de pago de tarjeta | Acumulará las operaciones desde que se abrió la cuenta hasta la fecha que se está haciendo cierre|
 |    |    |Consulta carrito el detalle de productos|||
 |    |    |Opción de eliminar productos en el carrito|||
 |    |    |Acumulación de montos de los productos seleccionados|||
-
-
-* **Apertura de Caja**
-Al inicio del día
-Selecciona fecha del día
-Ingresar el monto de caja chica
-
-* **Catálogo de Productos**
-Ingreso de productos ( con toda su descripción)
-
-* **Vemta con carrito**
-Busca producto
-Visualiza información de producto
-Agrega producto a carrito
-Consulta carrito el detalle de productos 
-Opción de eliminar productos en el carrito 
-Acumulación de montos de los productos seleccionados
-
-* **Cobro de venta**
-Botón de cobro con acumulado de venta
-Selección de medio de pago , que puede ser combinado ( efectivo y con tarjeta)
-Ingreso de datos de pago de tarjeta
-
-* **Cierre de caja**
-Muestra saldo inicial de apertura de caja del día
-Seleccion fecha del día que se hará el cierre
-Acumulará las operaciones desde que se abrió la cuenta hasta la fecha que se está haciendo cierre
-
 
 ## Mapa del Sitio
 

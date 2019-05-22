@@ -80,6 +80,10 @@ Se está realizando un Benchmark entre soluciones similares, y se preparan concl
 | :----------- | :----------- | :----------- | :----------- | 
 |  | | | https://drive.google.com/open?id=1UKAbqseebfFe_fdLuBha2TvGxUo5KkMromuPs5brncU| 
 
+Este es el cuadro de benchmarck de características
+<p align="center">
+<img alt="" title="" src="https://user-images.githubusercontent.com/31896385/58142273-0bbe8d80-7c0c-11e9-816b-09ecbeb5ff43.jpg" width="750">
+</p>
 
 ## Entrevista y encuestas
 

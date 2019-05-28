@@ -85,19 +85,14 @@ Este es el cuadro de benchmarck de características
 <img alt="" title="" src="https://user-images.githubusercontent.com/31896385/58142273-0bbe8d80-7c0c-11e9-816b-09ecbeb5ff43.jpg" width="500">
 </p>
 
-## Entrevista y encuestas
 
-* **Entrevistas**
+#### Entrevistas
 
 ![entrevistas](https://user-images.githubusercontent.com/31896385/38019592-a3cf7856-323d-11e8-89cb-76173ba6406d.png)
 
-Se entrevistó a 5 vendedores en negocios en Barranco, Lima.
+- Se entrevistó a 5 vendedores de pequeños negocios en Barranco, Lima.
 
-| Usuario |  Descripción|Documentación|
-|:----------- | :----------- | :----------- |
-|Vendedores |Se entrevistó a 5 vendedores|https://drive.google.com/open?id=14VJqd40Xpkh18AuiehUL-CpPJiw8hoR9IhTqfaW5Zow |
-
-Se obtuvo las siguientes conclusiones:
+Conclusiones:
 
 | Tema |  Conclusiones |
 | :----------- | :----------- | 
@@ -109,17 +104,11 @@ Se obtuvo las siguientes conclusiones:
 |Inventario|Inventarean productos manualmente, en algunos casos se apoyan en hojas de cálculo.|
 |Tecnología|Prefieren la utilización de un móvil como dispositivo de fácil uso ,accesible sin mayor inversión|
   
-* **Encuestas**
+#### Encuestas
 
 ![google2bforms](https://user-images.githubusercontent.com/31896385/38020309-7cfeaf74-323f-11e8-9539-a277632931fd.jpg)
 
-
-Se realizaron encuestas vía online, para conocer la percepción de los usuarios.
-
-| Usuario |  Descripción| Documentación|
-| :----------- | :----------- | :----------- | 
-| Vendedores | Para conocer la percepción de los vendedores a la hora de vender| https://goo.gl/forms/MQTUD0NP0AgBcS5i1|
-| Clientes | Para conocer la percepción de los clientes a la hora de comprar| https://goo.gl/forms/hSBHD16Nuw1PjeuH3 | 
+- Se realizaron encuestas vía online, para conocer la percepción de los usuarios.
 
 Se obtuvo las siguientes conclusiones:
 
@@ -134,7 +123,7 @@ Se obtuvo las siguientes conclusiones:
 #### Documentación
 | Entrevistas | Encuestas |
 | :----------- | :----------- |
-|  | https://drive.google.com/open?id=1UKAbqseebfFe_fdLuBha2TvGxUo5KkMromuPs5brncU| 
+|  | | 
 
 
 ## User Persona
@@ -202,6 +191,11 @@ Se elabora un mapa de sitio del rediseño propuesto.
 | Tema | Link| 
 | :----------- | :----------- | 
 | Benchmark | https://drive.google.com/open?id=1UKAbqseebfFe_fdLuBha2TvGxUo5KkMromuPs5brncU| 
+| Entrevistas a Puntos de ventas productos/servicios  |https://drive.google.com/open?id=14VJqd40Xpkh18AuiehUL-CpPJiw8hoR9IhTqfaW5Zow|
+| Encuesta online a vendedores| https://goo.gl/forms/MQTUD0NP0AgBcS5i1| 
+| Encuesta online a clientes| https://goo.gl/forms/hSBHD16Nuw1PjeuH3 | 
+||https://drive.google.com/open?id=1UKAbqseebfFe_fdLuBha2TvGxUo5KkMromuPs5brncU|
+
 
 
 

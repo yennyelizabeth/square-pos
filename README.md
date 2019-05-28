@@ -54,8 +54,8 @@ Actividades del Equipo:
 | Integrantes/Equipo |Especialidad | Actividades |
 | :----------- | :---------: | :---------: |
 | Todas|Equipo| Daily Stand Up,Workshops y Retrospectiva |
-| Alejandra Hoces| UX Designer| |
-| Yenny Quiñones| UX Designer| Investigación ( externa, interna, entrevistas, encuestas), definición problema y solución, elaboración de prototipo en baja y alta fidelidad, prueba e iteración, documentación y pitch de Solución UX)|
+| Alejandra Hoces| UX Designer|Investigación, definición problema y solución, elaboración de prototipo en baja y alta fidelidad, prueba e iteración, documentación y pitch de Solución UX. |
+| Yenny Quiñones| UX Designer| Investigación, definición problema y solución, elaboración de prototipo en baja y alta fidelidad, prueba e iteración, documentación y pitch de Solución UX.|
 | Aurora Vásques | Front End| definición problema y solución, maquetación y desarrollo para pase a producción|
 | Kamaly Zapana| Front End| Definición problema y solución, maquetación, desarrollo para pase a producción y pitch de Solución Front-End/Back-End |
 | Kathy Lévano| Front End| Definición problema y solución, maquetación y desarrollo para pase a producción|
@@ -84,12 +84,6 @@ Este es el cuadro de benchmarck de características
 <p align="center">
 <img alt="" title="" src="https://user-images.githubusercontent.com/31896385/58142273-0bbe8d80-7c0c-11e9-816b-09ecbeb5ff43.jpg" width="500">
 </p>
-
-#### Documentación
-| A nivel mundial |  A nivel regional-latinoamericano|A nivel local-país| Documentación| 
-| :----------- | :----------- | :----------- | :----------- | 
-|  | | | https://drive.google.com/open?id=1UKAbqseebfFe_fdLuBha2TvGxUo5KkMromuPs5brncU| 
-
 
 ## Entrevista y encuestas
 
@@ -148,9 +142,13 @@ Se obtuvo las siguientes conclusiones:
 De acuerdo a la investigación, se ha identificado la user persona: una vendedora de un minimarket-bodega, el cual está detallado en el siguiente gráfico.
 
 ![luisa-rodriguez](https://user-images.githubusercontent.com/31896385/38031513-ef3137bc-3260-11e8-9f34-8c884117aaa2.jpg)
+### B. Definir / Síntesis
 
 
-## Características 
+#### Resumen
+
+
+##### Características 
 
 ![cajero-square](https://user-images.githubusercontent.com/31896385/38039136-35ebbf54-3272-11e8-907f-31fb6c83b2e2.jpg)
 
@@ -166,17 +164,19 @@ Luego de la investigación, se han identificado las siguientes principales funci
 |    |    |Opción de eliminar productos en el carrito|||
 |    |    |Acumulación de montos de los productos seleccionados|||
 
-## Mapa del Sitio
+##### Mapa del Sitio
 
 Se elabora un mapa de sitio del rediseño propuesto.
 
-## Prototipo
+### C. Desarrollar/ Ideación
+#### Ideación
 
-* **Prototipo de Baja Fidelidad**
-Se ha elaborado un prototipo en papel.
+#### Evaluación
 
-* **Prototipo de Alta Fidelidad**
-Se elaboró un prototipo en figma.
+
+### D. Entrega / Implementación
+
+#### Construir / Prototipo
 
 #### Flujo 1 - Inicia Sesión hasta la apertura de caja
 ![group 2](https://user-images.githubusercontent.com/31896385/38036958-7c0dfb00-326d-11e8-81a3-5935924faeab.png)
@@ -185,20 +185,23 @@ Se elaboró un prototipo en figma.
 ![group 1](https://user-images.githubusercontent.com/31896385/38037434-7a7cfba0-326e-11e8-9346-d8bb335d875d.png)
 
 
-* **Demo Square PoS Latino**
-
-
-![square-logo](https://user-images.githubusercontent.com/31896385/38041434-53c0a9c2-3277-11e8-9ce7-32a87c153e93.png)
-
-
 | Demo|  Link |
 | :----------- | :----------- | 
 | Marvel | https://marvelapp.com/32db393 | 
 
 
+* **Demo Square PoS Latino**
+
+![square-logo](https://user-images.githubusercontent.com/31896385/38041434-53c0a9c2-3277-11e8-9ce7-32a87c153e93.png)
+
+#### Probar / Analizar
 
 
 
+#### Documentación
+| Tema | Link| 
+| :----------- | :----------- | 
+| Benchmark | https://drive.google.com/open?id=1UKAbqseebfFe_fdLuBha2TvGxUo5KkMromuPs5brncU| 
 
 
 

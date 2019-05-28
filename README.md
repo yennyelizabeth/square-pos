@@ -37,7 +37,7 @@ La idea es que crees una app parecida pero adaptada a las necesidades de tu paí
 | Kathy Lévano| Front End|
 
 
-## lanificación
+## Planificación
 
 ### Objetivos del Proyecto
 
@@ -51,12 +51,12 @@ Específicos:
 - Desarrollar un producto mínimo viable en paralelo.
 - Identificar y desarrollar las funcionalidades del producto minimo viable.
 
-### Actividades
+### Actividades Específicas del Equipo
 
 | Ux Designer y  Front-End|Ux Designer |Front-End|
 | :----------- | :----------- |:----------- |
 | Daily Stand Up|Investigación de contexto|Definición de estructura de funcionalidad |
-| Intercambio de experiencias de interacción con el producto|Benchmark |Distribución |
+| Intercambio de experiencias con el producto|Benchmark |Distribución |
 | Intercambio de consultas y propuestas| Entrevista a usuarios| Desarrollo |
 | Comunicación de diseños y desarrollos|Encuestas||
 | Retrospectiva|Elaboración de user-persona||
@@ -65,25 +65,35 @@ Específicos:
 ||Elaboración del Prototipo en Papel|  |
 ||Testeo Nro 1|  |
 
-## Investigación de Contexto 
-Se tiene el siguiente marco de contexto para iniciar el proyecto, que consiste en la alineación de los requisitos: 
+### Etapas del Proyecto
+
+#### A. Descubrir / Investigar
+
+##### Investigación de Contexto 
+Las partes interesadas del proyecto:
+- Del lado del negocio: Square PoS.
+- Del lado de los usuarios: los puntos de ventas de pequeños comercios con hasta 2 empleados, y los consumidores compradores.
+Y a su vez se identifican las necesidades generales de tecnología.
+El siguiente cuadro resume el contexto:
 
 <p align="center">
 <img alt="" title="" src="https://user-images.githubusercontent.com/31896385/58065958-1a923b00-7b4d-11e9-8450-f70fd9998241.PNG" width="750">
 </p>
 
 
-## Benchmark
-Se está realizando un Benchmark entre soluciones similares, y se preparan conclusiones finales:
-
-| A nivel mundial |  A nivel regional-latinoamericano|A nivel local-país| Documentación| 
-| :----------- | :----------- | :----------- | :----------- | 
-|  | | | https://drive.google.com/open?id=1UKAbqseebfFe_fdLuBha2TvGxUo5KkMromuPs5brncU| 
+##### Benchmark
+Se realizó un Benchmark entre soluciones similares.
 
 Este es el cuadro de benchmarck de características
 <p align="center">
 <img alt="" title="" src="https://user-images.githubusercontent.com/31896385/58142273-0bbe8d80-7c0c-11e9-816b-09ecbeb5ff43.jpg" width="500">
 </p>
+
+##### Documentación
+| A nivel mundial |  A nivel regional-latinoamericano|A nivel local-país| Documentación| 
+| :----------- | :----------- | :----------- | :----------- | 
+|  | | | https://drive.google.com/open?id=1UKAbqseebfFe_fdLuBha2TvGxUo5KkMromuPs5brncU| 
+
 
 ## Entrevista y encuestas
 
@@ -130,6 +140,11 @@ Se obtuvo las siguientes conclusiones:
 
 ![encuestas-1](https://user-images.githubusercontent.com/31896385/38021855-94ebc8b6-3243-11e8-99fc-549e8d98498d.png)
 ![resumen-entrevista-2](https://user-images.githubusercontent.com/31896385/38022027-08d6ca00-3244-11e8-88c8-a7391d127916.png)
+
+#### Documentación
+| Entrevistas | Encuestas |
+| :----------- | :----------- |
+|  | https://drive.google.com/open?id=1UKAbqseebfFe_fdLuBha2TvGxUo5KkMromuPs5brncU| 
 
 
 ## User Persona

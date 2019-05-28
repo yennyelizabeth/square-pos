@@ -37,39 +37,35 @@ La idea es que crees una app parecida pero adaptada a las necesidades de tu paí
 | Kathy Lévano| Front End|
 
 
-## Planificación
+## Planificación del Proyecto
 
-### Objetivos del Proyecto
+Objetivo General: Rediseño de Square PoS.
 
-General: Rediseño de Square PoS.
+Objetivos Específicos:
+- Comprender y redifinir el problema
+- Definir contexto y requisitos
+- Idear posibles soluciones
+- Elaboración de prototipo y prueba.
+- Desarrollar un producto mínimo viable.
+- Probar e iterar para la mejora continua.
 
-Específicos:
-- Investigar al usuario y su contexto.
-- Investigar sobre square-pos.
-- Análizar relación usuario y square-pos.
-- Identificar las características a mejorar en el rediseño.
-- Desarrollar un producto mínimo viable en paralelo.
-- Identificar y desarrollar las funcionalidades del producto minimo viable.
+Actividades del Equipo:
 
-### Actividades Específicas del Equipo
+| Integrantes/Equipo |Especialidad | Actividades |
+| :----------- | :---------: | :---------: |
+| Todas|Equipo| Daily Stand Up,Workshops y Retrospectiva |
+| Alejandra Hoces| UX Designer| |
+| Yenny Quiñones| UX Designer| Investigación ( externa, interna, entrevistas, encuestas), definición problema y solución, elaboración de prototipo en baja y alta fidelidad, prueba e iteración, documentación y pitch de Solución UX)|
+| Aurora Vásques | Front End| definición problema y solución, maquetación y desarrollo para pase a producción|
+| Kamaly Zapana| Front End| Definición problema y solución, maquetación, desarrollo para pase a producción y pitch de Solución Front-End/Back-End |
+| Kathy Lévano| Front End| Definición problema y solución, maquetación y desarrollo para pase a producción|
 
-| Ux Designer y  Front-End|Ux Designer |Front-End|
-| :----------- | :----------- |:----------- |
-| Daily Stand Up|Investigación de contexto|Definición de estructura de funcionalidad |
-| Intercambio de experiencias con el producto|Benchmark |Distribución |
-| Intercambio de consultas y propuestas| Entrevista a usuarios| Desarrollo |
-| Comunicación de diseños y desarrollos|Encuestas||
-| Retrospectiva|Elaboración de user-persona||
-||Definición de característica||
-||Elaboración del Mapa del sitio|  |
-||Elaboración del Prototipo en Papel|  |
-||Testeo Nro 1|  |
 
-### Etapas del Proyecto
+## Ejecución del Proyecto
 
-#### A. Descubrir / Investigar
+### A. Descubrir / Investigar
 
-##### Investigación de Contexto 
+#### Investigación de Contexto 
 Las partes interesadas del proyecto:
 - Del lado del negocio: Square PoS.
 - Del lado de los usuarios: los puntos de ventas de pequeños comercios con hasta 2 empleados, y los consumidores compradores.
@@ -81,7 +77,7 @@ El siguiente cuadro resume el contexto:
 </p>
 
 
-##### Benchmark
+#### Benchmark
 Se realizó un Benchmark entre soluciones similares.
 
 Este es el cuadro de benchmarck de características
@@ -89,7 +85,7 @@ Este es el cuadro de benchmarck de características
 <img alt="" title="" src="https://user-images.githubusercontent.com/31896385/58142273-0bbe8d80-7c0c-11e9-816b-09ecbeb5ff43.jpg" width="500">
 </p>
 
-##### Documentación
+#### Documentación
 | A nivel mundial |  A nivel regional-latinoamericano|A nivel local-país| Documentación| 
 | :----------- | :----------- | :----------- | :----------- | 
 |  | | | https://drive.google.com/open?id=1UKAbqseebfFe_fdLuBha2TvGxUo5KkMromuPs5brncU| 

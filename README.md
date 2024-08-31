@@ -55,7 +55,7 @@ Actividades del Equipo:
 | :----------- | :---------: | :---------: |
 | Todas|Equipo| Daily Stand Up,Workshops y Retrospectiva |
 | Alejandra Hoces| UX Designer|Investigación, definición problema y solución, elaboración de prototipo en baja y alta fidelidad, prueba e iteración |
-| Yenny Quiñones| UX Designer| Investigación, definición problema y solución, elaboración de prototipo en baja y alta fidelidad, prueba e iteración, documentación y pitch de Solución UX.|
+| Yenny Elizabeth| UX Designer| Investigación, definición problema y solución, elaboración de prototipo en baja y alta fidelidad, prueba e iteración, documentación y pitch de Solución UX.|
 | Aurora Vásques | Front End| definición problema y solución, maquetación y desarrollo para pase a producción|
 | Kamaly Zapana| Front End| Definición problema y solución, maquetación, desarrollo para pase a producción y pitch de Solución Front-End/Back-End |
 | Kathy Lévano| Front End| Definición problema y solución, maquetación y desarrollo para pase a producción|

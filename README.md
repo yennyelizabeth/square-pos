@@ -31,7 +31,7 @@ La idea es que crees una app parecida pero adaptada a las necesidades de tu paí
 | Integrantes |Especialidad |
 | :----------- | :---------: |
 | Alejandra Hoces| UX Designer|
-| Yenny Quiñones| UX Designer|
+| Yenny Elizabeth| UX Designer|
 | Aurora Vásques | Front End|
 | Kamaly Zapana| Front End|
 | Kathy Lévano| Front End|
